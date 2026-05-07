@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {{- include('partials/metatags.html.twig') ~}}
     <title>{{ site.title }} - {{ page.title }}</title>
-    <style>
+    <style>{% apply minify_css ~%}
       @import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&display=swap");
       :root {
         --bg: #05080d;
@@ -169,86 +169,80 @@
           max-width: none;
         }
       }
-    </style>
+    {% endapply %}</style>
   </head>
   <body>
     <main class="wrap">
       <h1>{{ site.title }}</h1>
       <p class="lead">Programme complet des runs Speedons 2026.</p>
       <p class="meta">Nombre de runs : {{ schedule|length }}</p>
-
       {%- if schedule is empty ~%}
-        <p class="empty">Aucune donnée dans <code>data/speedons2026_schedule.json</code>.</p>
+      <p class="empty">Aucune donnée dans <code>data/speedons2026_schedule.json</code>.</p>
       {%- else ~%}
         {%- set current_day = '' ~%}
-        <section class="grid">
-        {%- for event in schedule %}
-          {% set event_data = event %}
-          {% for _, run in runs %}
-            {% if run.id is defined and run.id == event.id %}
-              {% set event_data = run %}
-            {% endif %}
-          {% endfor ~%}
-
-          {%- set day_key = event_data.starts_at|date('Y-m-d') %}
-          {% if day_key != current_day %}
-            {% set current_day = day_key ~%}
-          <h2 class="day">{{ event_data.starts_at|format_date('full')|title }}</h2>
-          {%- endif ~%}
-
-          {%- set runners = [] %}
-          {% set commentators = [] %}
-          {% set hosts = [] %}
-          {% for participant in event_data.participants|default([]) %}
-            {% set name = participant.attendee.name|default('Inconnu') %}
-            {% if participant.role|default('') == 'ACTOR' %}
-              {% set runners = runners|merge([name]) %}
-            {% elseif participant.role|default('') == 'COMMENTATOR' %}
-              {% set commentators = commentators|merge([name]) %}
-            {% elseif participant.role|default('') == 'HOST' %}
-              {% set hosts = hosts|merge([name]) %}
-            {% endif %}
-          {% endfor ~%}
-
-          {%- set tags = [] %}
-          {% for tag in event_data.tags|default([]) %}
-            {% if tag.tag.name is defined %}
-              {% set tags = tags|merge([tag.tag.name]) %}
-            {% endif %}
-          {% endfor ~%}
-
-          <article class="event event--{{ event_data.type|default('event')|lower }}">
-            <div class="time">
-              {{ event_data.starts_at|date('H:i', 'Europe/Paris') }} - {{ event_data.ends_at|date('H:i', 'Europe/Paris') }}
-            </div>
-            <div>
-              <span class="type">{{ event_data.type|default('EVENT') }}</span>
-
-              {%- if event_data.type|default('') == 'SPEEDRUN' and event_data.speedrun is defined ~%}
-                <h3 class="title">{{ event_data.speedrun.game_name }} - {{ event_data.speedrun.category_name }}</h3>
-                <p class="details">
-                  <span>Plateforme : {{ event_data.speedrun.platform_name|default('-') }}</span>
-                  <span>Estimation : {{ event_data.speedrun.estimate|default('-') }}</span>
-                  <span>Runner(s) : {{ runners is not empty ? runners|join(', ') : '-' }}</span>
-                  <span>Commentaire(s) : {{ commentators is not empty ? commentators|join(', ') : '-' }}</span>
-                  <span>Host(s) : {{ hosts is not empty ? hosts|join(', ') : '-' }}</span>
-                  {%- if tags is not empty %}<span>Tags : {{ tags|join(', ') }}</span>{% endif ~%}
-                </p>
-              {%- elseif event_data.type|default('') == 'INTERSTITIAL' and event_data.interstitial is defined ~%}
-                <h3 class="title">{{ event_data.interstitial.subject|default('Interstitial') }}</h3>
-                <p class="details">
-                  <span>Durée : {{ (event_data.duration|default(0) / 60000)|round(0, 'ceil') }} min</span>
-                </p>
-              {%- else ~%}
-                <h3 class="title">Événement</h3>
-                <p class="details">
-                  <span>ID : {{ event_data.id|default('-') }}</span>
-                </p>
-              {%- endif ~%}
-            </div>
-          </article>
-        {%- endfor ~%}
-        </section>
+      <section class="grid">
+      {%- for event in schedule %}
+        {% set event_data = event %}
+        {% for _, run in runs %}
+          {% if run.id is defined and run.id == event.id %}
+            {% set event_data = run %}
+          {% endif %}
+        {% endfor ~%}
+        {%- set day_key = event_data.starts_at|date('Y-m-d') %}
+        {% if day_key != current_day %}
+          {% set current_day = day_key ~%}
+        <h2 class="day">{{ event_data.starts_at|format_date('full')|title }}</h2>
+        {%- endif ~%}
+        {%- set runners = [] %}
+        {% set commentators = [] %}
+        {% set hosts = [] %}
+        {% for participant in event_data.participants|default([]) %}
+          {% set name = participant.attendee.name|default('Inconnu') %}
+          {% if participant.role|default('') == 'ACTOR' %}
+            {% set runners = runners|merge([name]) %}
+          {% elseif participant.role|default('') == 'COMMENTATOR' %}
+            {% set commentators = commentators|merge([name]) %}
+          {% elseif participant.role|default('') == 'HOST' %}
+            {% set hosts = hosts|merge([name]) %}
+          {% endif %}
+        {% endfor ~%}
+        {%- set tags = [] %}
+        {% for tag in event_data.tags|default([]) %}
+          {% if tag.tag.name is defined %}
+            {% set tags = tags|merge([tag.tag.name]) %}
+          {% endif %}
+        {% endfor ~%}
+        <article class="event event--{{ event_data.type|default('event')|lower }}">
+          <div class="time">
+            {{ event_data.starts_at|date('H:i', 'Europe/Paris') }} - {{ event_data.ends_at|date('H:i', 'Europe/Paris') }}
+          </div>
+          <div>
+            <span class="type">{{ event_data.type|default('EVENT') }}</span>
+            {%- if event_data.type|default('') == 'SPEEDRUN' and event_data.speedrun is defined ~%}
+            <h3 class="title">{{ event_data.speedrun.game_name }} - {{ event_data.speedrun.category_name }}</h3>
+            <p class="details">
+              <span>Plateforme : {{ event_data.speedrun.platform_name|default('-') }}</span>
+              <span>Estimation : {{ event_data.speedrun.estimate|default('-') }}</span>
+              <span>Runner(s) : {{ runners is not empty ? runners|join(', ') : '-' }}</span>
+              <span>Commentaire(s) : {{ commentators is not empty ? commentators|join(', ') : '-' }}</span>
+              <span>Host(s) : {{ hosts is not empty ? hosts|join(', ') : '-' }}</span>
+              {%- if tags is not empty %}<span>Tags : {{ tags|join(', ') }}</span>{% endif ~%}
+            </p>
+            {%- elseif event_data.type|default('') == 'INTERSTITIAL' and event_data.interstitial is defined ~%}
+            <h3 class="title">{{ event_data.interstitial.subject|default('Interstitial') }}</h3>
+            <p class="details">
+              <span>Durée : {{ (event_data.duration|default(0) / 60000)|round(0, 'ceil') }} min</span>
+            </p>
+            {%- else ~%}
+            <h3 class="title">Événement</h3>
+            <p class="details">
+              <span>ID : {{ event_data.id|default('-') }}</span>
+            </p>
+            {%- endif ~%}
+          </div>
+        </article>
+      {%- endfor ~%}
+      </section>
       {%- endif ~%}
     </main>
   </body>

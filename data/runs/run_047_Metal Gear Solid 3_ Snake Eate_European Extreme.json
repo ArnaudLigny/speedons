@@ -1,0 +1,113 @@
+{
+  "id": "d79rasjsljdc9ttc993g",
+  "position": 47,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 4800000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Metal Gear Solid 3: Snake Eater",
+    "category_name": "European Extreme",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "1:20:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-09T17:54:34.935Z",
+  "ends_at": "2026-05-09T19:19:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc9940",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc993g",
+      "attendee_id": "cn6o2657m4hq41ukqv8g",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukqv8g",
+        "name": "iLL_Pazzo",
+        "connections": [
+          {
+            "id": "cn6o2657m4hq41ukqv90",
+            "type": "TWITCH",
+            "value": "ill_pazzo",
+            "attendee_id": "cn6o2657m4hq41ukqv8g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqv9g",
+            "type": "TWITTER",
+            "value": "Fiorenzo_Pazzo",
+            "attendee_id": "cn6o2657m4hq41ukqv8g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptts008b4g8269f4k0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc993g",
+      "attendee_id": "cunqc7nhqd13mjeltv8g",
+      "attendee": {
+        "id": "cunqc7nhqd13mjeltv8g",
+        "name": "DamDamLive",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7pttu808b4g8269f4mg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc993g",
+      "attendee_id": "cunr4d7hqd13mjelv38g",
+      "attendee": {
+        "id": "cunr4d7hqd13mjelv38g",
+        "name": "LeCadd",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tc9paaaisfo69il6r0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc993g",
+      "attendee_id": "d7sger69uqrgovvvk69g",
+      "attendee": {
+        "id": "d7sger69uqrgovvvk69g",
+        "name": "Horty",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tc9quj1jo572e3kemg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc993g",
+      "attendee_id": "cfppq4ka041deltq9g3g",
+      "attendee": {
+        "id": "cfppq4ka041deltq9g3g",
+        "name": "Yamato",
+        "pronouns": "il/al",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tc9smj1jo572e3keo0",
+      "event_id": "d79rasjsljdc9ttc993g",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

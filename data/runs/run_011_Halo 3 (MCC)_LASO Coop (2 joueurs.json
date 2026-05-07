@@ -1,0 +1,133 @@
+{
+  "id": "d79rasbsljdc9ttc96qg",
+  "position": 11,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 600000,
+  "duration": 6000000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Halo 3 (MCC)",
+    "category_name": "LASO Coop (2 joueurs)",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "1:40:00",
+    "flags": 1
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T02:10:34.935Z",
+  "ends_at": "2026-05-08T04:00:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasbsljdc9ttc96r0",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc96qg",
+      "attendee_id": "d79rasbsljdc9ttc96o0",
+      "attendee": {
+        "id": "d79rasbsljdc9ttc96o0",
+        "name": "Nexos",
+        "connections": [
+          {
+            "id": "d79rasbsljdc9ttc96og",
+            "type": "TWITCH",
+            "value": "nexosoriginal",
+            "attendee_id": "d79rasbsljdc9ttc96o0"
+          },
+          {
+            "id": "d79rasbsljdc9ttc96p0",
+            "type": "TWITTER",
+            "value": "OnlyRockRobin",
+            "attendee_id": "d79rasbsljdc9ttc96o0"
+          },
+          {
+            "id": "d79rasbsljdc9ttc96pg",
+            "type": "YOUTUBE",
+            "value": "NexosOriginal",
+            "attendee_id": "d79rasbsljdc9ttc96o0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d79rasbsljdc9ttc96rg",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc96qg",
+      "attendee_id": "d79rasbsljdc9ttc96q0",
+      "attendee": {
+        "id": "d79rasbsljdc9ttc96q0",
+        "name": "Shadows",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7g1fpiukf3beqbrb7u0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc96qg",
+      "attendee_id": "d7g10v2ukf3beqbrarlg",
+      "attendee": {
+        "id": "d7g10v2ukf3beqbrarlg",
+        "name": "Tektek",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7g1fr2ukf3beqbrb80g",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc96qg",
+      "attendee_id": "d7g110qukf3beqbrarmg",
+      "attendee": {
+        "id": "d7g110qukf3beqbrarmg",
+        "name": "Tepec",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sipgdfg0e3kg1q16jg",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc96qg",
+      "attendee_id": "cnbkj8ibk2f212upcfh0",
+      "attendee": {
+        "id": "cnbkj8ibk2f212upcfh0",
+        "name": "TPK",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sipilfg0e3kg1q16m0",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc96qg",
+      "attendee_id": "cfppq4ka041deltq9g3g",
+      "attendee": {
+        "id": "cfppq4ka041deltq9g3g",
+        "name": "Yamato",
+        "pronouns": "il/al",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sipl5fg0e3kg1q16ng",
+      "event_id": "d79rasbsljdc9ttc96qg",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

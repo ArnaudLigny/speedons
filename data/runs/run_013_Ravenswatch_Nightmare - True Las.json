@@ -1,0 +1,116 @@
+{
+  "id": "d79rasbsljdc9ttc96u0",
+  "position": 13,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 600000,
+  "duration": 2700000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Ravenswatch",
+    "category_name": "Nightmare - True Last Boss - Joueur de flute",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:45:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T06:07:34.935Z",
+  "ends_at": "2026-05-08T07:02:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasbsljdc9ttc96ug",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc96u0",
+      "attendee_id": "cnbkh90o82mckkoop4r0",
+      "attendee": {
+        "id": "cnbkh90o82mckkoop4r0",
+        "name": "Elizya TV",
+        "connections": [
+          {
+            "id": "cujsfmoveee0k23j9uvg",
+            "type": "TWITCH",
+            "value": "elizyatv",
+            "attendee_id": "cnbkh90o82mckkoop4r0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptka808b4g8269el50",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc96u0",
+      "attendee_id": "cunpfo7hqd13mjeltatg",
+      "attendee": {
+        "id": "cunpfo7hqd13mjeltatg",
+        "name": "azere",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7ptkc808b4g8269el90",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc96u0",
+      "attendee_id": "cfe529924nn1olqcqub0",
+      "attendee": {
+        "id": "cfe529924nn1olqcqub0",
+        "name": "Nitrostarch",
+        "connections": [
+          {
+            "id": "cfe52ah24nn1olqcque0",
+            "type": "TWITCH",
+            "value": "nitrostarch",
+            "attendee_id": "cfe529924nn1olqcqub0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7siqf5fg0e3kg1q177g",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc96u0",
+      "attendee_id": "cunqc7nhqd13mjeltv8g",
+      "attendee": {
+        "id": "cunqc7nhqd13mjeltv8g",
+        "name": "DamDamLive",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7siqh4rrdinih8hva4g",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc96u0",
+      "attendee_id": "cn6o2657m4hq41ukr010",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukr010",
+        "name": "Vicky Spleen",
+        "pronouns": "elle",
+        "description": " ",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7siqisrrdinih8hva60",
+      "event_id": "d79rasbsljdc9ttc96u0",
+      "tag_id": "d7sihblfg0e3kg1q12f0",
+      "tag": {
+        "id": "d7sihblfg0e3kg1q12f0",
+        "name": "Arachnophobie",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7sihddfg0e3kg1q12g0",
+            "language_code": "en",
+            "name": "Arachnophobia",
+            "tag_id": "d7sihblfg0e3kg1q12f0"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "d79rasjsljdc9ttc9an0",
+  "position": 77,
+  "type": "INTERSTITIAL",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 1200000,
+  "duration": 0,
+  "metadata": {},
+  "interstitial": {
+    "subject": "Remerciements"
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T21:49:34.935Z",
+  "ends_at": "2026-05-10T22:09:34.935Z",
+  "participants": [],
+  "translations": [],
+  "tags": []
+}

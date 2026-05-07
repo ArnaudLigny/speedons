@@ -1,0 +1,110 @@
+{
+  "id": "d79rasbsljdc9ttc977g",
+  "position": 17,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 1320000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Ikaruga",
+    "category_name": "Scoring",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:22:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T08:42:34.935Z",
+  "ends_at": "2026-05-08T09:09:34.935Z",
+  "participants": [
+    {
+      "id": "d7ptlqo08b4g8269ens0",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc977g",
+      "attendee_id": "cn6o2657m4hq41ukr0n0",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukr0n0",
+        "name": "Juju Kenobi",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "cn6o2657m4hq41ukr0ng",
+            "type": "TWITCH",
+            "value": "jujukenobi",
+            "attendee_id": "cn6o2657m4hq41ukr0n0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptldg08b4g8269en2g",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc977g",
+      "attendee_id": "d7g0k0aukf3beqbrak50",
+      "attendee": {
+        "id": "d7g0k0aukf3beqbrak50",
+        "name": "Getarez",
+        "pronouns": "iel/ael",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sj484rrdinih8hveb0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc977g",
+      "attendee_id": "cnbkfvibk2f212upcapg",
+      "attendee": {
+        "id": "cnbkfvibk2f212upcapg",
+        "name": "Khaos",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sj49tfg0e3kg1q1bi0",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc977g",
+      "attendee_id": "cunqc7nhqd13mjeltv8g",
+      "attendee": {
+        "id": "cunqc7nhqd13mjeltv8g",
+        "name": "DamDamLive",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sj4bcrrdinih8hved0",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc977g",
+      "attendee_id": "cn6o2657m4hq41ukr010",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukr010",
+        "name": "Vicky Spleen",
+        "pronouns": "elle",
+        "description": " ",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sj4d4rrdinih8hveeg",
+      "event_id": "d79rasbsljdc9ttc977g",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

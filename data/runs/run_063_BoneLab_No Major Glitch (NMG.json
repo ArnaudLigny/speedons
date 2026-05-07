@@ -1,0 +1,132 @@
+{
+  "id": "d79rasjsljdc9ttc99tg",
+  "position": 63,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 600000,
+  "duration": 3000000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "BoneLab",
+    "category_name": "No Major Glitch (NMG%)",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:50:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T10:17:34.935Z",
+  "ends_at": "2026-05-10T11:17:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc99u0",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc99tg",
+      "attendee_id": "cn6o2657m4hq41ukqub0",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukqub0",
+        "name": "Jean-Pierrenator",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7pu37808b4g8269fbr0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99tg",
+      "attendee_id": "d7g0512ukf3beqbrahg0",
+      "attendee": {
+        "id": "d7g0512ukf3beqbrahg0",
+        "name": "Ateca",
+        "pronouns": "elle",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tceb2aaisfo69ilacg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99tg",
+      "attendee_id": "cunqc7nhqd13mjeltv8g",
+      "attendee": {
+        "id": "cunqc7nhqd13mjeltv8g",
+        "name": "DamDamLive",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcecmj1jo572e3ki2g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99tg",
+      "attendee_id": "c94aufqve6fn5d1j6a9g",
+      "attendee": {
+        "id": "c94aufqve6fn5d1j6a9g",
+        "name": "Jarm0u",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "c94bflave6fn5d1j6v60",
+            "type": "TWITCH",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqvu0",
+            "type": "TWITTER",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          }
+        ]
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tceeej1jo572e3ki40",
+      "event_id": "d79rasjsljdc9ttc99tg",
+      "tag_id": "d7sihvtfg0e3kg1q12og",
+      "tag": {
+        "id": "d7sihvtfg0e3kg1q12og",
+        "name": "Arme à Feu",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7sii1lfg0e3kg1q12pg",
+            "language_code": "en",
+            "name": "Firearm",
+            "tag_id": "d7sihvtfg0e3kg1q12og"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tcefmj1jo572e3ki5g",
+      "event_id": "d79rasjsljdc9ttc99tg",
+      "tag_id": "d7qkmcg5klv0lki9alkg",
+      "tag": {
+        "id": "d7qkmcg5klv0lki9alkg",
+        "name": "Motion Sickness",
+        "description": "",
+        "translations": []
+      }
+    },
+    {
+      "id": "d7tcegmj1jo572e3ki7g",
+      "event_id": "d79rasjsljdc9ttc99tg",
+      "tag_id": "d7sii5krrdinih8hv5o0",
+      "tag": {
+        "id": "d7sii5krrdinih8hv5o0",
+        "name": "Pendaison",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7sii74rrdinih8hv5p0",
+            "language_code": "en",
+            "name": "Hanging",
+            "tag_id": "d7sii5krrdinih8hv5o0"
+          }
+        ]
+      }
+    }
+  ]
+}

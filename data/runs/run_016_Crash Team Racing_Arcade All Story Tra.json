@@ -1,0 +1,128 @@
+{
+  "id": "d79rasbsljdc9ttc9750",
+  "position": 16,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 2400000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Crash Team Racing",
+    "category_name": "Arcade All Story Tracks",
+    "category_description": "",
+    "platform_name": "PlayStation",
+    "estimate": "0:40:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T07:57:34.935Z",
+  "ends_at": "2026-05-08T08:42:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasbsljdc9ttc975g",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc9750",
+      "attendee_id": "cn6o2657m4hq41ukr0kg",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukr0kg",
+        "name": "Havven",
+        "connections": [
+          {
+            "id": "cn6o2657m4hq41ukr0l0",
+            "type": "TWITCH",
+            "value": "havvenfr",
+            "attendee_id": "cn6o2657m4hq41ukr0kg"
+          },
+          {
+            "id": "cn6o2657m4hq41ukr0lg",
+            "type": "TWITTER",
+            "value": "HavvenPuyo",
+            "attendee_id": "cn6o2657m4hq41ukr0kg"
+          },
+          {
+            "id": "d79rasbsljdc9ttc974g",
+            "type": "YOUTUBE",
+            "value": "Havven_FR",
+            "attendee_id": "cn6o2657m4hq41ukr0kg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptl5008b4g8269emg0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc9750",
+      "attendee_id": "c94aufqve6fn5d1j6a9g",
+      "attendee": {
+        "id": "c94aufqve6fn5d1j6a9g",
+        "name": "Jarm0u",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "c94bflave6fn5d1j6v60",
+            "type": "TWITCH",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqvu0",
+            "type": "TWITTER",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptl6g08b4g8269emk0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc9750",
+      "attendee_id": "d7g10rqukf3beqbrarkg",
+      "attendee": {
+        "id": "d7g10rqukf3beqbrarkg",
+        "name": "Sparta Venom RAS",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sj3v4rrdinih8hve20",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc9750",
+      "attendee_id": "cunqc7nhqd13mjeltv8g",
+      "attendee": {
+        "id": "cunqc7nhqd13mjeltv8g",
+        "name": "DamDamLive",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sj40lfg0e3kg1q1ba0",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc9750",
+      "attendee_id": "cn6o2657m4hq41ukr010",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukr010",
+        "name": "Vicky Spleen",
+        "pronouns": "elle",
+        "description": " ",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sj43lfg0e3kg1q1bc0",
+      "event_id": "d79rasbsljdc9ttc9750",
+      "tag_id": "d7qkmcg5klv0lki9alkg",
+      "tag": {
+        "id": "d7qkmcg5klv0lki9alkg",
+        "name": "Motion Sickness",
+        "description": "",
+        "translations": []
+      }
+    }
+  ]
+}

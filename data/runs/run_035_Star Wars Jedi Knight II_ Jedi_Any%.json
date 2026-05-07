@@ -1,0 +1,128 @@
+{
+  "id": "d79rasjsljdc9ttc98bg",
+  "position": 35,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 2700000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Star Wars Jedi Knight II: Jedi Outcast",
+    "category_name": "Any%",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:45:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-09T04:15:34.935Z",
+  "ends_at": "2026-05-09T05:05:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc98c0",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc98bg",
+      "attendee_id": "cnbkfaqbk2f212upc9eg",
+      "attendee": {
+        "id": "cnbkfaqbk2f212upc9eg",
+        "name": "TaoSky",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc98ag",
+            "type": "TWITCH",
+            "value": "taosky_",
+            "attendee_id": "cnbkfaqbk2f212upc9eg"
+          },
+          {
+            "id": "d79rasjsljdc9ttc98b0",
+            "type": "YOUTUBE",
+            "value": "taosky",
+            "attendee_id": "cnbkfaqbk2f212upc9eg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptqig08b4g8269eve0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc98bg",
+      "attendee_id": "c94at12ve6fn5d1j68h0",
+      "attendee": {
+        "id": "c94at12ve6fn5d1j68h0",
+        "name": "Lenino",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "cncd63a1amiqud9it310",
+            "type": "TWITCH",
+            "value": "LeninoKun",
+            "attendee_id": "c94at12ve6fn5d1j68h0"
+          },
+          {
+            "id": "cncd6421amiqud9it320",
+            "type": "TWITTER",
+            "value": "LeninoKun",
+            "attendee_id": "c94at12ve6fn5d1j68h0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptqjo08b4g8269evi0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc98bg",
+      "attendee_id": "cfe4pq124nn1olqcqjq0",
+      "attendee": {
+        "id": "cfe4pq124nn1olqcqjq0",
+        "name": "Pigloodu14",
+        "connections": [
+          {
+            "id": "cfe4ptp24nn1olqcqjv0",
+            "type": "TWITCH",
+            "value": "pigloodu14",
+            "attendee_id": "cfe4pq124nn1olqcqjq0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sjevtfg0e3kg1q1hhg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc98bg",
+      "attendee_id": "cfpq48ka041deltqadug",
+      "attendee": {
+        "id": "cfpq48ka041deltqadug",
+        "name": "Shisheyu",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sjf2srrdinih8hvkgg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc98bg",
+      "attendee_id": "cfppq4ka041deltq9g3g",
+      "attendee": {
+        "id": "cfppq4ka041deltq9g3g",
+        "name": "Yamato",
+        "pronouns": "il/al",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sjf5crrdinih8hvki0",
+      "event_id": "d79rasjsljdc9ttc98bg",
+      "tag_id": "d7qkmcg5klv0lki9alkg",
+      "tag": {
+        "id": "d7qkmcg5klv0lki9alkg",
+        "name": "Motion Sickness",
+        "description": "",
+        "translations": []
+      }
+    }
+  ]
+}

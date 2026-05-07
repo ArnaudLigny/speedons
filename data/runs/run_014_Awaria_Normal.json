@@ -1,0 +1,140 @@
+{
+  "id": "d79rasbsljdc9ttc970g",
+  "position": 14,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 600000,
+  "duration": 900000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Awaria",
+    "category_name": "Normal",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:15:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T07:02:34.935Z",
+  "ends_at": "2026-05-08T07:27:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasbsljdc9ttc9710",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc970g",
+      "attendee_id": "c94au8bta74f6q1gr8rg",
+      "attendee": {
+        "id": "c94au8bta74f6q1gr8rg",
+        "name": "legrandgrand",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "c94besjta74f6q1gru20",
+            "type": "TWITCH",
+            "value": "legrandgrand",
+            "attendee_id": "c94au8bta74f6q1gr8rg"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqum0",
+            "type": "TWITTER",
+            "value": "legrandrunner",
+            "attendee_id": "c94au8bta74f6q1gr8rg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d79rasbsljdc9ttc971g",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc970g",
+      "attendee_id": "d79rasbsljdc9ttc96v0",
+      "attendee": {
+        "id": "d79rasbsljdc9ttc96v0",
+        "name": "Noteau",
+        "connections": [
+          {
+            "id": "d79rasbsljdc9ttc96vg",
+            "type": "TWITCH",
+            "value": "noteau12",
+            "attendee_id": "d79rasbsljdc9ttc96v0"
+          },
+          {
+            "id": "d79rasbsljdc9ttc9700",
+            "type": "YOUTUBE",
+            "value": "noteau",
+            "attendee_id": "d79rasbsljdc9ttc96v0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptkko08b4g8269eljg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc970g",
+      "attendee_id": "d7g0tu2ukf3beqbraq2g",
+      "attendee": {
+        "id": "d7g0tu2ukf3beqbraq2g",
+        "name": "Rikuindarkness",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7ptkm808b4g8269eln0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc970g",
+      "attendee_id": "cnbk4qibk2f212upbuag",
+      "attendee": {
+        "id": "cnbk4qibk2f212upbuag",
+        "name": "Yari",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sisvcrrdinih8hvamg",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc970g",
+      "attendee_id": "cunqc7nhqd13mjeltv8g",
+      "attendee": {
+        "id": "cunqc7nhqd13mjeltv8g",
+        "name": "DamDamLive",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sit15fg0e3kg1q17tg",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc970g",
+      "attendee_id": "cn6o2657m4hq41ukr010",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukr010",
+        "name": "Vicky Spleen",
+        "pronouns": "elle",
+        "description": " ",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sit45fg0e3kg1q17v0",
+      "event_id": "d79rasbsljdc9ttc970g",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

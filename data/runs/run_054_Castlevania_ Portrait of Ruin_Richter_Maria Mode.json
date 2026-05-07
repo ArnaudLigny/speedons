@@ -1,0 +1,116 @@
+{
+  "id": "d79rasjsljdc9ttc99gg",
+  "position": 54,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 1860000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Castlevania: Portrait of Ruin",
+    "category_name": "Richter/Maria Mode",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:31:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T01:39:34.935Z",
+  "ends_at": "2026-05-10T02:15:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc99h0",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc99gg",
+      "attendee_id": "d79rasjsljdc9ttc99g0",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc99g0",
+        "name": "CNeyo",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7ptvvo08b4g8269f7h0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99gg",
+      "attendee_id": "cfe4q0124nn1olqcqk3g",
+      "attendee": {
+        "id": "cfe4q0124nn1olqcqk3g",
+        "name": "7eraser7",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "cfe4q3924nn1olqcqk6g",
+            "type": "TWITCH",
+            "value": "7eraser7",
+            "attendee_id": "cfe4q0124nn1olqcqk3g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqttg",
+            "type": "TWITTER",
+            "value": "7eraser7",
+            "attendee_id": "cfe4q0124nn1olqcqk3g"
+          },
+          {
+            "id": "d79rasjsljdc9ttc97hg",
+            "type": "YOUTUBE",
+            "value": "7eraser7",
+            "attendee_id": "cfe4q0124nn1olqcqk3g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu01g08b4g8269f7n0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99gg",
+      "attendee_id": "c94at7qve6fn5d1j68p0",
+      "attendee": {
+        "id": "c94at7qve6fn5d1j68p0",
+        "name": "Rocher",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "c94bbu2ve6fn5d1j6t20",
+            "type": "TWITCH",
+            "value": "rocher_brockas",
+            "attendee_id": "c94at7qve6fn5d1j68p0"
+          },
+          {
+            "id": "cn6o2657m4hq41ukr1cg",
+            "type": "TWITTER",
+            "value": "Rocher_brockas",
+            "attendee_id": "c94at7qve6fn5d1j68p0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tcc1iaaisfo69il8k0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99gg",
+      "attendee_id": "cfppq4ka041deltq9g3g",
+      "attendee": {
+        "id": "cfppq4ka041deltq9g3g",
+        "name": "Yamato",
+        "pronouns": "il/al",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcc32aaisfo69il8lg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99gg",
+      "attendee_id": "cg73pselgn96rflkvtk0",
+      "attendee": {
+        "id": "cg73pselgn96rflkvtk0",
+        "name": "ZeratoR",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

@@ -1,0 +1,133 @@
+{
+  "id": "d79rasjsljdc9ttc97n0",
+  "position": 24,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 1500000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Crypt of the NecroDancer",
+    "category_name": "Aria (OHKO)",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:25:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T15:35:34.935Z",
+  "ends_at": "2026-05-08T16:05:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc97ng",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc97n0",
+      "attendee_id": "c94au7jta74f6q1gr8pg",
+      "attendee": {
+        "id": "c94au7jta74f6q1gr8pg",
+        "name": "Lusther",
+        "connections": [
+          {
+            "id": "c94beqjta74f6q1gru00",
+            "type": "TWITCH",
+            "value": "lusther",
+            "attendee_id": "c94au7jta74f6q1gr8pg"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqurg",
+            "type": "TWITTER",
+            "value": "Lusth3r",
+            "attendee_id": "c94au7jta74f6q1gr8pg"
+          },
+          {
+            "id": "d79rasjsljdc9ttc97mg",
+            "type": "YOUTUBE",
+            "value": "lusther8288",
+            "attendee_id": "c94au7jta74f6q1gr8pg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptneo08b4g8269eqe0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc97n0",
+      "attendee_id": "cunpgq7hqd13mjeltbjg",
+      "attendee": {
+        "id": "cunpgq7hqd13mjeltbjg",
+        "name": "Amélia",
+        "pronouns": "elle",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7ptng808b4g8269eqhg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc97n0",
+      "attendee_id": "cfppsqsa041deltq9ld0",
+      "attendee": {
+        "id": "cfppsqsa041deltq9ld0",
+        "name": "Senen",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "cn6o2657m4hq41ukr25g",
+            "type": "TWITCH",
+            "value": "senen_",
+            "attendee_id": "cfppsqsa041deltq9ld0"
+          },
+          {
+            "id": "cn6o2657m4hq41ukr260",
+            "type": "TWITTER",
+            "value": "Senen42",
+            "attendee_id": "cfppsqsa041deltq9ld0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj7plfg0e3kg1q1dsg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc97n0",
+      "attendee_id": "d7sghqfc6uejcdabctq0",
+      "attendee": {
+        "id": "d7sghqfc6uejcdabctq0",
+        "name": "Etoiles",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sj7rkrrdinih8hvgm0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc97n0",
+      "attendee_id": "d7sger69uqrgovvvk69g",
+      "attendee": {
+        "id": "d7sger69uqrgovvvk69g",
+        "name": "Horty",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sj7ucrrdinih8hvgng",
+      "event_id": "d79rasjsljdc9ttc97n0",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

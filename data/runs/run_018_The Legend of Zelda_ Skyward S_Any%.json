@@ -1,0 +1,128 @@
+{
+  "id": "d79rasbsljdc9ttc9790",
+  "position": 18,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 5100000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "The Legend of Zelda: Skyward Sword",
+    "category_name": "Any%",
+    "category_description": "",
+    "platform_name": "Wii",
+    "estimate": "1:25:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T09:09:34.935Z",
+  "ends_at": "2026-05-08T10:39:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasbsljdc9ttc979g",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc9790",
+      "attendee_id": "d79rasbsljdc9ttc978g",
+      "attendee": {
+        "id": "d79rasbsljdc9ttc978g",
+        "name": "Ronano",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7ptm3o08b4g8269eo5g",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc9790",
+      "attendee_id": "cujsfn8veee0k23j9v8g",
+      "attendee": {
+        "id": "cujsfn8veee0k23j9v8g",
+        "name": "darmabi",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7ptm5g08b4g8269eobg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc9790",
+      "attendee_id": "d7g0pjqukf3beqbranb0",
+      "attendee": {
+        "id": "d7g0pjqukf3beqbranb0",
+        "name": "Lise_G",
+        "pronouns": "elle",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sj4j5fg0e3kg1q1bp0",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc9790",
+      "attendee_id": "c94au9ave6fn5d1j6a00",
+      "attendee": {
+        "id": "c94au9ave6fn5d1j6a00",
+        "name": "Chachamaxx",
+        "connections": [
+          {
+            "id": "c94bevive6fn5d1j6uo0",
+            "type": "TWITCH",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          },
+          {
+            "id": "cujsfh8veee0k23j9rn0",
+            "type": "TWITTER",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj4ktfg0e3kg1q1brg",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc9790",
+      "attendee_id": "c94aufqve6fn5d1j6a9g",
+      "attendee": {
+        "id": "c94aufqve6fn5d1j6a9g",
+        "name": "Jarm0u",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "c94bflave6fn5d1j6v60",
+            "type": "TWITCH",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqvu0",
+            "type": "TWITTER",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          }
+        ]
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sj4mdfg0e3kg1q1bt0",
+      "event_id": "d79rasbsljdc9ttc9790",
+      "tag_id": "d7sihblfg0e3kg1q12f0",
+      "tag": {
+        "id": "d7sihblfg0e3kg1q12f0",
+        "name": "Arachnophobie",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7sihddfg0e3kg1q12g0",
+            "language_code": "en",
+            "name": "Arachnophobia",
+            "tag_id": "d7sihblfg0e3kg1q12f0"
+          }
+        ]
+      }
+    }
+  ]
+}

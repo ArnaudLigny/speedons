@@ -1,0 +1,147 @@
+{
+  "id": "d79rasbsljdc9ttc9620",
+  "position": 3,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 600000,
+  "duration": 3360000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Kingdom Hearts Birth By Sleep Final Mix HD",
+    "category_name": "Any% Aqua Beginner",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:56:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-07T17:56:00Z",
+  "ends_at": "2026-05-07T19:02:00Z",
+  "participants": [
+    {
+      "id": "d79rasbsljdc9ttc962g",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc9620",
+      "attendee_id": "cujsfj0veee0k23j9sng",
+      "attendee": {
+        "id": "cujsfj0veee0k23j9sng",
+        "name": "Givralyriame",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "cujsfj0veee0k23j9so0",
+            "type": "TWITCH",
+            "value": "givralyriame",
+            "attendee_id": "cujsfj0veee0k23j9sng"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d79rasbsljdc9ttc9630",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc9620",
+      "attendee_id": "d79rasbsljdc9ttc9610",
+      "attendee": {
+        "id": "d79rasbsljdc9ttc9610",
+        "name": "Shikikairib",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasbsljdc9ttc961g",
+            "type": "TWITCH",
+            "value": "shikikairib",
+            "attendee_id": "d79rasbsljdc9ttc9610"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7g1dsqukf3beqbrb4tg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc9620",
+      "attendee_id": "cfppqbsa041deltq9ghg",
+      "attendee": {
+        "id": "cfppqbsa041deltq9ghg",
+        "name": "Ætienne",
+        "connections": [
+          {
+            "id": "cn6o2657m4hq41ukqtjg",
+            "type": "TWITCH",
+            "value": "aetienne",
+            "attendee_id": "cfppqbsa041deltq9ghg"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqtk0",
+            "type": "TWITTER",
+            "value": "STAEtienne",
+            "attendee_id": "cfppqbsa041deltq9ghg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7g1duqukf3beqbrb50g",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc9620",
+      "attendee_id": "d7g10p2ukf3beqbrarjg",
+      "attendee": {
+        "id": "d7g10p2ukf3beqbrarjg",
+        "name": "Sonzero",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sikodfg0e3kg1q13s0",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc9620",
+      "attendee_id": "cunqc7nhqd13mjeltv8g",
+      "attendee": {
+        "id": "cunqc7nhqd13mjeltv8g",
+        "name": "DamDamLive",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7siktdfg0e3kg1q1400",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc9620",
+      "attendee_id": "cfe52dp24nn1olqcqujg",
+      "attendee": {
+        "id": "cfe52dp24nn1olqcqujg",
+        "name": "KEMIST",
+        "connections": [
+          {
+            "id": "cfe52f124nn1olqcqumg",
+            "type": "TWITCH",
+            "value": "kemist_c10h15n",
+            "attendee_id": "cfe52dp24nn1olqcqujg"
+          }
+        ]
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sikvtfg0e3kg1q141g",
+      "event_id": "d79rasbsljdc9ttc9620",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

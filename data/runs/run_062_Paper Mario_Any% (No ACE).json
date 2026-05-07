@@ -1,0 +1,117 @@
+{
+  "id": "d79rasjsljdc9ttc99sg",
+  "position": 62,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 6900000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Paper Mario",
+    "category_name": "Any% (No ACE)",
+    "category_description": "",
+    "platform_name": "Nintendo 64",
+    "estimate": "1:55:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T08:17:34.935Z",
+  "ends_at": "2026-05-10T10:17:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc99t0",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc99sg",
+      "attendee_id": "cnbkfjgo82mckkoop2n0",
+      "attendee": {
+        "id": "cnbkfjgo82mckkoop2n0",
+        "name": "Hachraam",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc99s0",
+            "type": "YOUTUBE",
+            "value": "Hachraam",
+            "attendee_id": "cnbkfjgo82mckkoop2n0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu2jo08b4g8269fbc0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99sg",
+      "attendee_id": "cn6o2657m4hq41ukr0c0",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukr0c0",
+        "name": "Antenio",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "cn6o2657m4hq41ukr0cg",
+            "type": "TWITCH",
+            "value": "antenio",
+            "attendee_id": "cn6o2657m4hq41ukr0c0"
+          },
+          {
+            "id": "cn6o2657m4hq41ukr0d0",
+            "type": "TWITTER",
+            "value": "Antenio",
+            "attendee_id": "cn6o2657m4hq41ukr0c0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu2l008b4g8269fbg0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99sg",
+      "attendee_id": "d7g0p72ukf3beqbran4g",
+      "attendee": {
+        "id": "d7g0p72ukf3beqbran4g",
+        "name": "Korunpack",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tce3ej1jo572e3kht0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99sg",
+      "attendee_id": "cunqc7nhqd13mjeltv8g",
+      "attendee": {
+        "id": "cunqc7nhqd13mjeltv8g",
+        "name": "DamDamLive",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tce4uj1jo572e3khvg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99sg",
+      "attendee_id": "c94aufqve6fn5d1j6a9g",
+      "attendee": {
+        "id": "c94aufqve6fn5d1j6a9g",
+        "name": "Jarm0u",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "c94bflave6fn5d1j6v60",
+            "type": "TWITCH",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqvu0",
+            "type": "TWITTER",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          }
+        ]
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

@@ -1,0 +1,255 @@
+{% set schedule = site.data.speedons2026_schedule|default([]) %}
+{% set runs = site.data.runs|default({}) %}
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{- include('partials/metatags.html.twig') ~}}
+    <title>{{ site.title }} - {{ page.title }}</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&display=swap");
+      :root {
+        --bg: #05080d;
+        --bg-alt: #140a16;
+        --card: rgba(22, 10, 24, 0.88);
+        --card-strong: rgba(14, 7, 18, 0.96);
+        --text: #fff4fb;
+        --muted: #d4a5c2;
+        --line: rgba(255, 102, 196, 0.24);
+        --accent: #ff66c4;
+        --accent-strong: #ff4fb2;
+        --accent-warm: #ff9f7a;
+        --interstitial: rgba(255, 159, 122, 0.16);
+        --speedrun: rgba(255, 102, 196, 0.14);
+        --shadow: 0 22px 60px rgba(0, 0, 0, 0.35);
+      }
+      * { box-sizing: border-box; }
+      html {
+        color-scheme: dark;
+      }
+      body {
+        margin: 0;
+        font-family: "Rajdhani", "Segoe UI", sans-serif;
+        background: var(--bg);
+        color: var(--text);
+        line-height: 1.45;
+        min-height: 100vh;
+      }
+      .wrap {
+        max-width: 1180px;
+        margin: 0 auto;
+        padding: 40px 16px 64px;
+      }
+      h1 {
+        margin: 0 0 10px;
+        font-size: clamp(2.8rem, 8vw, 5.8rem);
+        line-height: 0.9;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.03em;
+        color: #ffe8f6;
+        text-shadow: 0 0 24px rgba(255, 79, 178, 0.28);
+      }
+      .lead {
+        margin: 0 0 18px;
+        color: var(--muted);
+        font-size: clamp(1.2rem, 2vw, 1.65rem);
+        font-weight: 500;
+      }
+      .meta {
+        display: inline-flex;
+        align-items: center;
+        gap: 10px;
+        margin: 0 0 28px;
+        padding: 8px 14px;
+        border: 1px solid rgba(255, 102, 196, 0.35);
+        border-radius: 999px;
+        background: rgba(255, 102, 196, 0.1);
+        color: #ffd0eb;
+        font-size: 1rem;
+        font-weight: 600;
+      }
+      .day {
+        margin: 36px 0 14px;
+        padding: 10px 0;
+        border-bottom: 1px solid var(--line);
+        color: var(--accent);
+        font-size: clamp(1.6rem, 3vw, 2.25rem);
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+      }
+      .grid {
+        display: grid;
+        gap: 14px;
+      }
+      .event {
+        display: grid;
+        grid-template-columns: 164px 1fr;
+        gap: 16px;
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-left: 4px solid var(--accent);
+        border-radius: 18px;
+        padding: 18px;
+        box-shadow: var(--shadow);
+        backdrop-filter: blur(10px);
+      }
+      .event--interstitial {
+        border-left-color: var(--accent-warm);
+        background: rgba(40, 18, 24, 0.96);
+      }
+      .event--speedrun {
+        border-left-color: var(--accent-strong);
+        background: var(--card-strong);
+      }
+      .time {
+        font-weight: 700;
+        color: var(--text);
+        font-size: 1.25rem;
+        line-height: 1.1;
+        white-space: nowrap;
+      }
+      .type {
+        display: inline-block;
+        padding: 4px 10px;
+        border: 1px solid currentColor;
+        font-size: 0.9rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        border-radius: 999px;
+        background: rgba(255, 102, 196, 0.1);
+        color: #ffd2ec;
+        margin-bottom: 8px;
+      }
+      .event--interstitial .type {
+        background: rgba(255, 159, 122, 0.12);
+        color: #ffd7cc;
+      }
+      .title {
+        margin: 0 0 8px;
+        font-size: clamp(1.4rem, 2.4vw, 2rem);
+        line-height: 1;
+        font-weight: 700;
+        text-transform: uppercase;
+      }
+      .details {
+        margin: 0;
+        color: var(--muted);
+        font-size: 1.05rem;
+        font-weight: 500;
+        display: grid;
+        gap: 5px;
+      }
+      .empty {
+        padding: 20px;
+        border: 1px dashed var(--line);
+        border-radius: 16px;
+        color: var(--muted);
+        background: rgba(12, 19, 29, 0.8);
+      }
+      code {
+        font-family: inherit;
+        color: #ffb8df;
+      }
+      @media (max-width: 720px) {
+        .wrap {
+          padding-top: 28px;
+        }
+        .event {
+          grid-template-columns: 1fr;
+          padding: 16px;
+        }
+        .time {
+          font-size: 1.1rem;
+        }
+        .lead {
+          max-width: none;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="wrap">
+      <h1>{{ site.title }}</h1>
+      <p class="lead">Programme complet des runs Speedons 2026.</p>
+      <p class="meta">Nombre de runs : {{ schedule|length }}</p>
+
+      {%- if schedule is empty ~%}
+        <p class="empty">Aucune donnée dans <code>data/speedons2026_schedule.json</code>.</p>
+      {%- else ~%}
+        {%- set current_day = '' ~%}
+        <section class="grid">
+        {%- for event in schedule %}
+          {% set event_data = event %}
+          {% for _, run in runs %}
+            {% if run.id is defined and run.id == event.id %}
+              {% set event_data = run %}
+            {% endif %}
+          {% endfor ~%}
+
+          {%- set day_key = event_data.starts_at|date('Y-m-d') %}
+          {% if day_key != current_day %}
+            {% set current_day = day_key ~%}
+          <h2 class="day">{{ event_data.starts_at|format_date('full')|title }}</h2>
+          {%- endif ~%}
+
+          {%- set runners = [] %}
+          {% set commentators = [] %}
+          {% set hosts = [] %}
+          {% for participant in event_data.participants|default([]) %}
+            {% set name = participant.attendee.name|default('Inconnu') %}
+            {% if participant.role|default('') == 'ACTOR' %}
+              {% set runners = runners|merge([name]) %}
+            {% elseif participant.role|default('') == 'COMMENTATOR' %}
+              {% set commentators = commentators|merge([name]) %}
+            {% elseif participant.role|default('') == 'HOST' %}
+              {% set hosts = hosts|merge([name]) %}
+            {% endif %}
+          {% endfor ~%}
+
+          {%- set tags = [] %}
+          {% for tag in event_data.tags|default([]) %}
+            {% if tag.tag.name is defined %}
+              {% set tags = tags|merge([tag.tag.name]) %}
+            {% endif %}
+          {% endfor ~%}
+
+          <article class="event event--{{ event_data.type|default('event')|lower }}">
+            <div class="time">
+              {{ event_data.starts_at|date('H:i', 'Europe/Paris') }} - {{ event_data.ends_at|date('H:i', 'Europe/Paris') }}
+            </div>
+            <div>
+              <span class="type">{{ event_data.type|default('EVENT') }}</span>
+
+              {%- if event_data.type|default('') == 'SPEEDRUN' and event_data.speedrun is defined ~%}
+                <h3 class="title">{{ event_data.speedrun.game_name }} - {{ event_data.speedrun.category_name }}</h3>
+                <p class="details">
+                  <span>Plateforme : {{ event_data.speedrun.platform_name|default('-') }}</span>
+                  <span>Estimation : {{ event_data.speedrun.estimate|default('-') }}</span>
+                  <span>Runner(s) : {{ runners is not empty ? runners|join(', ') : '-' }}</span>
+                  <span>Commentaire(s) : {{ commentators is not empty ? commentators|join(', ') : '-' }}</span>
+                  <span>Host(s) : {{ hosts is not empty ? hosts|join(', ') : '-' }}</span>
+                  {%- if tags is not empty %}<span>Tags : {{ tags|join(', ') }}</span>{% endif ~%}
+                </p>
+              {%- elseif event_data.type|default('') == 'INTERSTITIAL' and event_data.interstitial is defined ~%}
+                <h3 class="title">{{ event_data.interstitial.subject|default('Interstitial') }}</h3>
+                <p class="details">
+                  <span>Durée : {{ (event_data.duration|default(0) / 60000)|round(0, 'ceil') }} min</span>
+                </p>
+              {%- else ~%}
+                <h3 class="title">Événement</h3>
+                <p class="details">
+                  <span>ID : {{ event_data.id|default('-') }}</span>
+                </p>
+              {%- endif ~%}
+            </div>
+          </article>
+        {%- endfor ~%}
+        </section>
+      {%- endif ~%}
+    </main>
+  </body>
+</html>

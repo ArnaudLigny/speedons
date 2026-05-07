@@ -1,0 +1,96 @@
+{
+  "id": "d79rasbsljdc9ttc96i0",
+  "position": 8,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 2700000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Mario Kart World",
+    "category_name": "Showcase Mario Kart World Time Trial + Intermission",
+    "category_description": "",
+    "platform_name": "Switch 2",
+    "estimate": "0:45:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-07T22:15:34.935Z",
+  "ends_at": "2026-05-07T23:05:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasbsljdc9ttc96ig",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc96i0",
+      "attendee_id": "d79rasbsljdc9ttc96gg",
+      "attendee": {
+        "id": "d79rasbsljdc9ttc96gg",
+        "name": "Darkrapht",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasbsljdc9ttc96h0",
+            "type": "TWITCH",
+            "value": "darkrapht",
+            "attendee_id": "d79rasbsljdc9ttc96gg"
+          },
+          {
+            "id": "d79rasbsljdc9ttc96hg",
+            "type": "YOUTUBE",
+            "value": "Darkrapht",
+            "attendee_id": "d79rasbsljdc9ttc96gg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7g1f0qukf3beqbrb6pg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc96i0",
+      "attendee_id": "c94au9ave6fn5d1j6a00",
+      "attendee": {
+        "id": "c94au9ave6fn5d1j6a00",
+        "name": "Chachamaxx",
+        "connections": [
+          {
+            "id": "c94bevive6fn5d1j6uo0",
+            "type": "TWITCH",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          },
+          {
+            "id": "cujsfh8veee0k23j9rn0",
+            "type": "TWITTER",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sinllfg0e3kg1q15lg",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc96i0",
+      "attendee_id": "d7sghqfc6uejcdabctq0",
+      "attendee": {
+        "id": "d7sghqfc6uejcdabctq0",
+        "name": "Etoiles",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sinnsrrdinih8hv8k0",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc96i0",
+      "attendee_id": "cg73pselgn96rflkvtk0",
+      "attendee": {
+        "id": "cg73pselgn96rflkvtk0",
+        "name": "ZeratoR",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

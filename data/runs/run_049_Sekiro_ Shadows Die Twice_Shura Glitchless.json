@@ -1,0 +1,121 @@
+{
+  "id": "d79rasjsljdc9ttc9980",
+  "position": 49,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 2700000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Sekiro: Shadows Die Twice",
+    "category_name": "Shura Glitchless",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:45:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-09T20:09:34.935Z",
+  "ends_at": "2026-05-09T20:59:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc998g",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc9980",
+      "attendee_id": "d79rasjsljdc9ttc996g",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc996g",
+        "name": "Minarot",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc9970",
+            "type": "TWITCH",
+            "value": "minarot_",
+            "attendee_id": "d79rasjsljdc9ttc996g"
+          },
+          {
+            "id": "d79rasjsljdc9ttc997g",
+            "type": "YOUTUBE",
+            "value": "Minarot_",
+            "attendee_id": "d79rasjsljdc9ttc996g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptu9g08b4g8269f5f0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9980",
+      "attendee_id": "d7g0pbiukf3beqbran70",
+      "attendee": {
+        "id": "d7g0pbiukf3beqbran70",
+        "name": "LaBoulangerire",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tca6qaaisfo69il770",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9980",
+      "attendee_id": "d7sger69uqrgovvvk69g",
+      "attendee": {
+        "id": "d7sger69uqrgovvvk69g",
+        "name": "Horty",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tca8ej1jo572e3kf00",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9980",
+      "attendee_id": "cfppq4ka041deltq9g3g",
+      "attendee": {
+        "id": "cfppq4ka041deltq9g3g",
+        "name": "Yamato",
+        "pronouns": "il/al",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tca9ej1jo572e3kf1g",
+      "event_id": "d79rasjsljdc9ttc9980",
+      "tag_id": "d7qj1fr2p9uag6dr6m9g",
+      "tag": {
+        "id": "d7qj1fr2p9uag6dr6m9g",
+        "name": "Gore",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1hj2p9uag6dr6mbg",
+            "language_code": "en",
+            "name": "Gore",
+            "tag_id": "d7qj1fr2p9uag6dr6m9g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tcaaqaaisfo69il7bg",
+      "event_id": "d79rasjsljdc9ttc9980",
+      "tag_id": "d7sgjtu9uqrgovvvk74g",
+      "tag": {
+        "id": "d7sgjtu9uqrgovvvk74g",
+        "name": "Violence",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7sgk069uqrgovvvk75g",
+            "language_code": "en",
+            "name": "Violence",
+            "tag_id": "d7sgjtu9uqrgovvvk74g"
+          }
+        ]
+      }
+    }
+  ]
+}

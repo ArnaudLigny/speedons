@@ -1,0 +1,134 @@
+{
+  "id": "d79rasjsljdc9ttc99v0",
+  "position": 64,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 600000,
+  "duration": 2100000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Portal 2 Coop",
+    "category_name": "AMC (All Main Courses)",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:35:00",
+    "flags": 1
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T11:17:34.935Z",
+  "ends_at": "2026-05-10T12:02:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc9a00",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc99v0",
+      "attendee_id": "d79rasjsljdc9ttc99ug",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc99ug",
+        "name": "savvydruid",
+        "pronouns": "elle",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcem6j1jo572e3kif0",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc99v0",
+      "attendee_id": "cn6o2657m4hq41ukr27g",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukr27g",
+        "name": "Zadadaz",
+        "pronouns": "tous",
+        "connections": [
+          {
+            "id": "cn6o2657m4hq41ukr280",
+            "type": "TWITCH",
+            "value": "zadadaz",
+            "attendee_id": "cn6o2657m4hq41ukr27g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukr28g",
+            "type": "TWITTER",
+            "value": "zadadazz",
+            "attendee_id": "cn6o2657m4hq41ukr27g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tceniaaisfo69ilaq0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99v0",
+      "attendee_id": "cfe50eh24nn1olqcqsd0",
+      "attendee": {
+        "id": "cfe50eh24nn1olqcqsd0",
+        "name": "Evandar",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "cfe50g924nn1olqcqsh0",
+            "type": "TWITCH",
+            "value": "evandaar",
+            "attendee_id": "cfe50eh24nn1olqcqsd0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tcepaaaisfo69ilasg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99v0",
+      "attendee_id": "d79rasbsljdc9ttc95u0",
+      "attendee": {
+        "id": "d79rasbsljdc9ttc95u0",
+        "name": "Hooki",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "d79rasbsljdc9ttc95ug",
+            "type": "TWITCH",
+            "value": "hooki____",
+            "attendee_id": "d79rasbsljdc9ttc95u0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tceruj1jo572e3kil0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99v0",
+      "attendee_id": "d7sger69uqrgovvvk69g",
+      "attendee": {
+        "id": "d7sger69uqrgovvvk69g",
+        "name": "Horty",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcetej1jo572e3kio0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99v0",
+      "attendee_id": "cfpq48ka041deltqadug",
+      "attendee": {
+        "id": "cfpq48ka041deltqadug",
+        "name": "Shisheyu",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tceuuj1jo572e3kipg",
+      "event_id": "d79rasjsljdc9ttc99v0",
+      "tag_id": "d7qkmcg5klv0lki9alkg",
+      "tag": {
+        "id": "d7qkmcg5klv0lki9alkg",
+        "name": "Motion Sickness",
+        "description": "",
+        "translations": []
+      }
+    }
+  ]
+}

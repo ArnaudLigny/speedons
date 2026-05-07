@@ -1,0 +1,123 @@
+{
+  "id": "d79rasjsljdc9ttc98t0",
+  "position": 45,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 600000,
+  "duration": 2700000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Deltarune",
+    "category_name": "Chapitre 4 Any%",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:45:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-09T15:59:34.935Z",
+  "ends_at": "2026-05-09T16:54:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc98tg",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc98t0",
+      "attendee_id": "d79rasjsljdc9ttc98s0",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc98s0",
+        "name": "Vintagix",
+        "connections": [
+          {
+            "id": "d7si5udfg0e3kg1q10c0",
+            "type": "BLUESKY",
+            "value": "vintagix.fastlittleboys.com",
+            "attendee_id": "d79rasjsljdc9ttc98s0"
+          },
+          {
+            "id": "d79rasjsljdc9ttc98sg",
+            "type": "TWITCH",
+            "value": "Vintagiix",
+            "attendee_id": "d79rasjsljdc9ttc98s0"
+          },
+          {
+            "id": "d7si6gdfg0e3kg1q10ig",
+            "type": "YOUTUBE",
+            "value": "@vintagix",
+            "attendee_id": "d79rasjsljdc9ttc98s0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pttf808b4g8269f3t0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc98t0",
+      "attendee_id": "cfe4op924nn1olqcqij0",
+      "attendee": {
+        "id": "cfe4op924nn1olqcqij0",
+        "name": "Bloupeuh",
+        "pronouns": "elle/aelle",
+        "description": " ",
+        "connections": [
+          {
+            "id": "d7qklp05klv0lki9al1g",
+            "type": "BLUESKY",
+            "value": "bloupeuh.bsky.social",
+            "attendee_id": "cfe4op924nn1olqcqij0"
+          },
+          {
+            "id": "cfe4ot924nn1olqcqin0",
+            "type": "TWITCH",
+            "value": "bloupeuh",
+            "attendee_id": "cfe4op924nn1olqcqij0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7si5d5fg0e3kg1q1010",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc98t0",
+      "attendee_id": "c990ren9rqh8tg5c41eg",
+      "attendee": {
+        "id": "c990ren9rqh8tg5c41eg",
+        "name": "MisterMV",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7si5flfg0e3kg1q103g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc98t0",
+      "attendee_id": "cg73pselgn96rflkvtk0",
+      "attendee": {
+        "id": "cg73pselgn96rflkvtk0",
+        "name": "ZeratoR",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7si4esrrdinih8hv2h0",
+      "event_id": "d79rasjsljdc9ttc98t0",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

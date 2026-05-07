@@ -1,0 +1,133 @@
+{
+  "id": "d79rasjsljdc9ttc97lg",
+  "position": 23,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 1800000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "The Typing of the Dead",
+    "category_name": "Arcade%",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:30:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T15:00:34.935Z",
+  "ends_at": "2026-05-08T15:35:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc97m0",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc97lg",
+      "attendee_id": "d79rasjsljdc9ttc97jg",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc97jg",
+        "name": "HammerKick",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc97k0",
+            "type": "TWITCH",
+            "value": "hammerkick",
+            "attendee_id": "d79rasjsljdc9ttc97jg"
+          },
+          {
+            "id": "d79rasjsljdc9ttc97kg",
+            "type": "TWITTER",
+            "value": "HammerKick_OW",
+            "attendee_id": "d79rasjsljdc9ttc97jg"
+          },
+          {
+            "id": "d79rasjsljdc9ttc97l0",
+            "type": "YOUTUBE",
+            "value": "HammerKick-Speedrun",
+            "attendee_id": "d79rasjsljdc9ttc97jg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptnag08b4g8269eq50",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc97lg",
+      "attendee_id": "cunpgffhqd13mjeltbg0",
+      "attendee": {
+        "id": "cunpgffhqd13mjeltbg0",
+        "name": "Grink",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasbsljdc9ttc96ag",
+            "type": "TWITCH",
+            "value": "gr1nk",
+            "attendee_id": "cunpgffhqd13mjeltbg0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj7dsrrdinih8hvgcg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc97lg",
+      "attendee_id": "d7sghqfc6uejcdabctq0",
+      "attendee": {
+        "id": "d7sghqfc6uejcdabctq0",
+        "name": "Etoiles",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sj7flfg0e3kg1q1dm0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc97lg",
+      "attendee_id": "d7sger69uqrgovvvk69g",
+      "attendee": {
+        "id": "d7sger69uqrgovvvk69g",
+        "name": "Horty",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sj7htfg0e3kg1q1dog",
+      "event_id": "d79rasjsljdc9ttc97lg",
+      "tag_id": "d7qj1fr2p9uag6dr6m9g",
+      "tag": {
+        "id": "d7qj1fr2p9uag6dr6m9g",
+        "name": "Gore",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1hj2p9uag6dr6mbg",
+            "language_code": "en",
+            "name": "Gore",
+            "tag_id": "d7qj1fr2p9uag6dr6m9g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj7jsrrdinih8hvgi0",
+      "event_id": "d79rasjsljdc9ttc97lg",
+      "tag_id": "d7sihm5fg0e3kg1q12l0",
+      "tag": {
+        "id": "d7sihm5fg0e3kg1q12l0",
+        "name": "Zombies",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7sihntfg0e3kg1q12m0",
+            "language_code": "en",
+            "name": "Zombie",
+            "tag_id": "d7sihm5fg0e3kg1q12l0"
+          }
+        ]
+      }
+    }
+  ]
+}

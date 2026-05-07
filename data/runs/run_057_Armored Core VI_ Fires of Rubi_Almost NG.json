@@ -1,0 +1,152 @@
+{
+  "id": "d79rasjsljdc9ttc99l0",
+  "position": 57,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 6900000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Armored Core VI: Fires of Rubicon",
+    "category_name": "Almost NG",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "1:55:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T03:15:34.935Z",
+  "ends_at": "2026-05-10T05:15:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc99lg",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc99l0",
+      "attendee_id": "cn6o2657m4hq41ukqtv0",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukqtv0",
+        "name": "Moa",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "cn6o2657m4hq41ukqtvg",
+            "type": "TWITCH",
+            "value": "moa67",
+            "attendee_id": "cn6o2657m4hq41ukqtv0"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqu00",
+            "type": "TWITTER",
+            "value": "Moa532",
+            "attendee_id": "cn6o2657m4hq41ukqtv0"
+          },
+          {
+            "id": "d79rasbsljdc9ttc96a0",
+            "type": "YOUTUBE",
+            "value": "moa5327",
+            "attendee_id": "cn6o2657m4hq41ukqtv0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu1c008b4g8269f960",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99l0",
+      "attendee_id": "cfpptmca041deltq9n3g",
+      "attendee": {
+        "id": "cfpptmca041deltq9n3g",
+        "name": "Sirtank",
+        "pronouns": "il/iel",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7pu1dg08b4g8269f9c0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99l0",
+      "attendee_id": "cfppq4ka041deltq9g3g",
+      "attendee": {
+        "id": "cfppq4ka041deltq9g3g",
+        "name": "Yamato",
+        "pronouns": "il/al",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcco2aaisfo69il96g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99l0",
+      "attendee_id": "c94au9ave6fn5d1j6a00",
+      "attendee": {
+        "id": "c94au9ave6fn5d1j6a00",
+        "name": "Chachamaxx",
+        "connections": [
+          {
+            "id": "c94bevive6fn5d1j6uo0",
+            "type": "TWITCH",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          },
+          {
+            "id": "cujsfh8veee0k23j9rn0",
+            "type": "TWITTER",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tccpqaaisfo69il990",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99l0",
+      "attendee_id": "cfe52dp24nn1olqcqujg",
+      "attendee": {
+        "id": "cfe52dp24nn1olqcqujg",
+        "name": "KEMIST",
+        "connections": [
+          {
+            "id": "cfe52f124nn1olqcqumg",
+            "type": "TWITCH",
+            "value": "kemist_c10h15n",
+            "attendee_id": "cfe52dp24nn1olqcqujg"
+          }
+        ]
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tccr2aaisfo69il9ag",
+      "event_id": "d79rasjsljdc9ttc99l0",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tccruj1jo572e3kh0g",
+      "event_id": "d79rasjsljdc9ttc99l0",
+      "tag_id": "d7qkmcg5klv0lki9alkg",
+      "tag": {
+        "id": "d7qkmcg5klv0lki9alkg",
+        "name": "Motion Sickness",
+        "description": "",
+        "translations": []
+      }
+    }
+  ]
+}

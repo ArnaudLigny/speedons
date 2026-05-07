@@ -1,0 +1,189 @@
+{
+  "id": "d79rasjsljdc9ttc97i0",
+  "position": 22,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 600000,
+  "duration": 4320000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "The Rogue Prince of Persia",
+    "category_name": "Fresh File Story Journey",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "1:12:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T13:38:34.935Z",
+  "ends_at": "2026-05-08T15:00:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc97j0",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc97i0",
+      "attendee_id": "cfe4q0124nn1olqcqk3g",
+      "attendee": {
+        "id": "cfe4q0124nn1olqcqk3g",
+        "name": "7eraser7",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "cfe4q3924nn1olqcqk6g",
+            "type": "TWITCH",
+            "value": "7eraser7",
+            "attendee_id": "cfe4q0124nn1olqcqk3g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqttg",
+            "type": "TWITTER",
+            "value": "7eraser7",
+            "attendee_id": "cfe4q0124nn1olqcqk3g"
+          },
+          {
+            "id": "d79rasjsljdc9ttc97hg",
+            "type": "YOUTUBE",
+            "value": "7eraser7",
+            "attendee_id": "cfe4q0124nn1olqcqk3g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj6gkrrdinih8hvfmg",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc97i0",
+      "attendee_id": "d79rasjsljdc9ttc97gg",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc97gg",
+        "name": "VelCheran",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc97h0",
+            "type": "TWITCH",
+            "value": "VelCheran",
+            "attendee_id": "d79rasjsljdc9ttc97gg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj6k5fg0e3kg1q1d2g",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc97i0",
+      "attendee_id": "c94atfave6fn5d1j6920",
+      "attendee": {
+        "id": "c94atfave6fn5d1j6920",
+        "name": "Asukero",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "c94bcmave6fn5d1j6th0",
+            "type": "TWITCH",
+            "value": "asukero",
+            "attendee_id": "c94atfave6fn5d1j6920"
+          },
+          {
+            "id": "cn6o2657m4hq41ukr1u0",
+            "type": "TWITTER",
+            "value": "Asuker0",
+            "attendee_id": "c94atfave6fn5d1j6920"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj6n5fg0e3kg1q1d50",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc97i0",
+      "attendee_id": "d7g0jtaukf3beqbrak40",
+      "attendee": {
+        "id": "d7g0jtaukf3beqbrak40",
+        "name": "Garazbolg",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sj6rlfg0e3kg1q1d80",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc97i0",
+      "attendee_id": "d7sghqfc6uejcdabctq0",
+      "attendee": {
+        "id": "d7sghqfc6uejcdabctq0",
+        "name": "Etoiles",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sj6tkrrdinih8hvg1g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc97i0",
+      "attendee_id": "d7sger69uqrgovvvk69g",
+      "attendee": {
+        "id": "d7sger69uqrgovvvk69g",
+        "name": "Horty",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sj74srrdinih8hvg60",
+      "event_id": "d79rasjsljdc9ttc97i0",
+      "tag_id": "d7qj1fr2p9uag6dr6m9g",
+      "tag": {
+        "id": "d7qj1fr2p9uag6dr6m9g",
+        "name": "Gore",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1hj2p9uag6dr6mbg",
+            "language_code": "en",
+            "name": "Gore",
+            "tag_id": "d7qj1fr2p9uag6dr6m9g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj76crrdinih8hvg7g",
+      "event_id": "d79rasjsljdc9ttc97i0",
+      "tag_id": "d7sgl1fc6uejcdabcuf0",
+      "tag": {
+        "id": "d7sgl1fc6uejcdabcuf0",
+        "name": "Mort",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7sgl2vc6uejcdabcug0",
+            "language_code": "en",
+            "name": "Death",
+            "tag_id": "d7sgl1fc6uejcdabcuf0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj77srrdinih8hvg90",
+      "event_id": "d79rasjsljdc9ttc97i0",
+      "tag_id": "d7sgjtu9uqrgovvvk74g",
+      "tag": {
+        "id": "d7sgjtu9uqrgovvvk74g",
+        "name": "Violence",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7sgk069uqrgovvvk75g",
+            "language_code": "en",
+            "name": "Violence",
+            "tag_id": "d7sgjtu9uqrgovvvk74g"
+          }
+        ]
+      }
+    }
+  ]
+}

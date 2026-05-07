@@ -1,0 +1,135 @@
+{
+  "id": "d79rasjsljdc9ttc99m0",
+  "position": 58,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 4500000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "LEGO Star Wars : La Saga Complete",
+    "category_name": "Free Play",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "1:15:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T05:15:34.935Z",
+  "ends_at": "2026-05-10T06:35:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc99mg",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc99m0",
+      "attendee_id": "cfe50a124nn1olqcqs4g",
+      "attendee": {
+        "id": "cfe50a124nn1olqcqs4g",
+        "name": "Rapho",
+        "connections": [
+          {
+            "id": "cfe50c124nn1olqcqs8g",
+            "type": "TWITCH",
+            "value": "raaapho",
+            "attendee_id": "cfe50a124nn1olqcqs4g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu1j808b4g8269f9m0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99m0",
+      "attendee_id": "cn6o2657m4hq41ukr0c0",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukr0c0",
+        "name": "Antenio",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "cn6o2657m4hq41ukr0cg",
+            "type": "TWITCH",
+            "value": "antenio",
+            "attendee_id": "cn6o2657m4hq41ukr0c0"
+          },
+          {
+            "id": "cn6o2657m4hq41ukr0d0",
+            "type": "TWITTER",
+            "value": "Antenio",
+            "attendee_id": "cn6o2657m4hq41ukr0c0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu1kg08b4g8269f9p0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99m0",
+      "attendee_id": "cujsfloveee0k23j9ubg",
+      "attendee": {
+        "id": "cujsfloveee0k23j9ubg",
+        "name": "Xeeloks",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "cujsfloveee0k23j9uc0",
+            "type": "TWITCH",
+            "value": "xeeloks",
+            "attendee_id": "cujsfloveee0k23j9ubg"
+          },
+          {
+            "id": "cujsfloveee0k23j9ucg",
+            "type": "TWITTER",
+            "value": "xeeloks",
+            "attendee_id": "cujsfloveee0k23j9ubg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tcd02aaisfo69il9eg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99m0",
+      "attendee_id": "c94au9ave6fn5d1j6a00",
+      "attendee": {
+        "id": "c94au9ave6fn5d1j6a00",
+        "name": "Chachamaxx",
+        "connections": [
+          {
+            "id": "c94bevive6fn5d1j6uo0",
+            "type": "TWITCH",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          },
+          {
+            "id": "cujsfh8veee0k23j9rn0",
+            "type": "TWITTER",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tcd1mj1jo572e3kh40",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99m0",
+      "attendee_id": "cfe52dp24nn1olqcqujg",
+      "attendee": {
+        "id": "cfe52dp24nn1olqcqujg",
+        "name": "KEMIST",
+        "connections": [
+          {
+            "id": "cfe52f124nn1olqcqumg",
+            "type": "TWITCH",
+            "value": "kemist_c10h15n",
+            "attendee_id": "cfe52dp24nn1olqcqujg"
+          }
+        ]
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

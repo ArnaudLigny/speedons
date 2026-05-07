@@ -1,0 +1,141 @@
+{
+  "id": "d79rasjsljdc9ttc982g",
+  "position": 30,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 600000,
+  "duration": 3840000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "The Legend of Zelda: Tri Force Heroes",
+    "category_name": "Any% - Multiplayers",
+    "category_description": "",
+    "platform_name": "Nintendo 3DS",
+    "estimate": "1:04:00",
+    "flags": 1
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T20:58:34.935Z",
+  "ends_at": "2026-05-08T22:12:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc9830",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc982g",
+      "attendee_id": "d79rasjsljdc9ttc9800",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc9800",
+        "name": "Léméry",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc980g",
+            "type": "TWITCH",
+            "value": "lemery",
+            "attendee_id": "d79rasjsljdc9ttc9800"
+          },
+          {
+            "id": "d79rasjsljdc9ttc9810",
+            "type": "YOUTUBE",
+            "value": "Lemery_",
+            "attendee_id": "d79rasjsljdc9ttc9800"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d79rasjsljdc9ttc983g",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc982g",
+      "attendee_id": "cn6o2657m4hq41ukqv5g",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukqv5g",
+        "name": "Tixo",
+        "connections": [
+          {
+            "id": "cn6o2657m4hq41ukqv60",
+            "type": "TWITCH",
+            "value": "Yoten_and_Tixo",
+            "attendee_id": "cn6o2657m4hq41ukqv5g"
+          },
+          {
+            "id": "d79rasjsljdc9ttc981g",
+            "type": "YOUTUBE",
+            "value": "Yoten_and_Tixo",
+            "attendee_id": "cn6o2657m4hq41ukqv5g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d79rasjsljdc9ttc9840",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc982g",
+      "attendee_id": "cn6o2657m4hq41ukqv40",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukqv40",
+        "name": "Yoten",
+        "connections": [
+          {
+            "id": "cn6o2657m4hq41ukqv4g",
+            "type": "TWITCH",
+            "value": "yoten_and_tixo",
+            "attendee_id": "cn6o2657m4hq41ukqv40"
+          },
+          {
+            "id": "d79rasjsljdc9ttc9820",
+            "type": "YOUTUBE",
+            "value": "Yoten_and_Tixo",
+            "attendee_id": "cn6o2657m4hq41ukqv40"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptp5008b4g8269et50",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc982g",
+      "attendee_id": "d7g0qtiukf3beqbrao50",
+      "attendee": {
+        "id": "d7g0qtiukf3beqbrao50",
+        "name": "Megalopard",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7ptp6g08b4g8269et80",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc982g",
+      "attendee_id": "cnbkj8ibk2f212upcfh0",
+      "attendee": {
+        "id": "cnbkj8ibk2f212upcfh0",
+        "name": "TPK",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sjajlfg0e3kg1q1fkg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc982g",
+      "attendee_id": "d7sghqfc6uejcdabctq0",
+      "attendee": {
+        "id": "d7sghqfc6uejcdabctq0",
+        "name": "Etoiles",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sjallfg0e3kg1q1fm0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc982g",
+      "attendee_id": "cfpq48ka041deltqadug",
+      "attendee": {
+        "id": "cfpq48ka041deltqadug",
+        "name": "Shisheyu",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

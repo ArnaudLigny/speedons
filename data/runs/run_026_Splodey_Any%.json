@@ -1,0 +1,147 @@
+{
+  "id": "d79rasjsljdc9ttc97qg",
+  "position": 26,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 1560000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Splodey",
+    "category_name": "Any%",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:26:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T17:00:34.935Z",
+  "ends_at": "2026-05-08T17:31:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc97r0",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc97qg",
+      "attendee_id": "d79rasjsljdc9ttc97pg",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc97pg",
+        "name": "Jerem",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc97q0",
+            "type": "TWITCH",
+            "value": "jerem923",
+            "attendee_id": "d79rasjsljdc9ttc97pg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptns808b4g8269er8g",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc97qg",
+      "attendee_id": "cn6o2657m4hq41ukqthg",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukqthg",
+        "name": "Bouzny",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc9a4g",
+            "type": "TWITCH",
+            "value": "bouzny",
+            "attendee_id": "cn6o2657m4hq41ukqthg"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqti0",
+            "type": "TWITTER",
+            "value": "Bouzny",
+            "attendee_id": "cn6o2657m4hq41ukqthg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptnv808b4g8269erbg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc97qg",
+      "attendee_id": "c94au7jta74f6q1gr8pg",
+      "attendee": {
+        "id": "c94au7jta74f6q1gr8pg",
+        "name": "Lusther",
+        "connections": [
+          {
+            "id": "c94beqjta74f6q1gru00",
+            "type": "TWITCH",
+            "value": "lusther",
+            "attendee_id": "c94au7jta74f6q1gr8pg"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqurg",
+            "type": "TWITTER",
+            "value": "Lusth3r",
+            "attendee_id": "c94au7jta74f6q1gr8pg"
+          },
+          {
+            "id": "d79rasjsljdc9ttc97mg",
+            "type": "YOUTUBE",
+            "value": "lusther8288",
+            "attendee_id": "c94au7jta74f6q1gr8pg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj8j4rrdinih8hvh70",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc97qg",
+      "attendee_id": "cfe52dp24nn1olqcqujg",
+      "attendee": {
+        "id": "cfe52dp24nn1olqcqujg",
+        "name": "KEMIST",
+        "connections": [
+          {
+            "id": "cfe52f124nn1olqcqumg",
+            "type": "TWITCH",
+            "value": "kemist_c10h15n",
+            "attendee_id": "cfe52dp24nn1olqcqujg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj8l5fg0e3kg1q1ee0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc97qg",
+      "attendee_id": "cnbkj8ibk2f212upcfh0",
+      "attendee": {
+        "id": "cnbkj8ibk2f212upcfh0",
+        "name": "TPK",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sj8n5fg0e3kg1q1efg",
+      "event_id": "d79rasjsljdc9ttc97qg",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

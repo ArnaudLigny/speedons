@@ -1,0 +1,118 @@
+{
+  "id": "d79rasjsljdc9ttc9a3g",
+  "position": 66,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 3000000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Arcaea",
+    "category_name": "Showcase",
+    "category_description": "",
+    "platform_name": "Android",
+    "estimate": "0:50:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T12:57:34.935Z",
+  "ends_at": "2026-05-10T13:52:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc9a40",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc9a3g",
+      "attendee_id": "d79rasjsljdc9ttc9a2g",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc9a2g",
+        "name": "Asahaka",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc9a30",
+            "type": "TWITCH",
+            "value": "Asahaka",
+            "attendee_id": "d79rasjsljdc9ttc9a2g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu41o08b4g8269fd50",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9a3g",
+      "attendee_id": "d7g0m4iukf3beqbralcg",
+      "attendee": {
+        "id": "d7g0m4iukf3beqbralcg",
+        "name": "Hiiro",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcfc2aaisfo69ilbcg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9a3g",
+      "attendee_id": "d7sger69uqrgovvvk69g",
+      "attendee": {
+        "id": "d7sger69uqrgovvvk69g",
+        "name": "Horty",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcfdmj1jo572e3kj60",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9a3g",
+      "attendee_id": "cfpq48ka041deltqadug",
+      "attendee": {
+        "id": "cfpq48ka041deltqadug",
+        "name": "Shisheyu",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tcgk6j1jo572e3kjgg",
+      "event_id": "d79rasjsljdc9ttc9a3g",
+      "tag_id": "d7siiusrrdinih8hv600",
+      "tag": {
+        "id": "d7siiusrrdinih8hv600",
+        "name": "Défilement Rapide",
+        "description": "",
+        "translations": []
+      }
+    },
+    {
+      "id": "d7tcgluj1jo572e3kji0",
+      "event_id": "d79rasjsljdc9ttc9a3g",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tcgnej1jo572e3kjjg",
+      "event_id": "d79rasjsljdc9ttc9a3g",
+      "tag_id": "d7qkmcg5klv0lki9alkg",
+      "tag": {
+        "id": "d7qkmcg5klv0lki9alkg",
+        "name": "Motion Sickness",
+        "description": "",
+        "translations": []
+      }
+    }
+  ]
+}

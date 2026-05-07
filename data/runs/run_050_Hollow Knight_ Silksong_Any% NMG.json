@@ -1,0 +1,127 @@
+{
+  "id": "d79rasjsljdc9ttc99a0",
+  "position": 50,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 4260000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Hollow Knight: Silksong",
+    "category_name": "Any% NMG",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "1:11:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-09T20:59:34.935Z",
+  "ends_at": "2026-05-09T22:15:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc99ag",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc99a0",
+      "attendee_id": "cfe4ub124nn1olqcqpjg",
+      "attendee": {
+        "id": "cfe4ub124nn1olqcqpjg",
+        "name": "Zoph",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc9990",
+            "type": "TWITCH",
+            "value": "zoph__",
+            "attendee_id": "cfe4ub124nn1olqcqpjg"
+          },
+          {
+            "id": "d79rasjsljdc9ttc999g",
+            "type": "YOUTUBE",
+            "value": "zophiss9369",
+            "attendee_id": "cfe4ub124nn1olqcqpjg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptue008b4g8269f5o0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99a0",
+      "attendee_id": "cunpfo7hqd13mjeltatg",
+      "attendee": {
+        "id": "cunpfo7hqd13mjeltatg",
+        "name": "azere",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7ptugg08b4g8269f5tg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99a0",
+      "attendee_id": "cn6o2657m4hq41ukr21g",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukr21g",
+        "name": "Qentiko",
+        "connections": [
+          {
+            "id": "cn6o2657m4hq41ukr220",
+            "type": "TWITCH",
+            "value": "qentiko",
+            "attendee_id": "cn6o2657m4hq41ukr21g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukr22g",
+            "type": "TWITTER",
+            "value": "Qen_Tiko",
+            "attendee_id": "cn6o2657m4hq41ukr21g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tcaqej1jo572e3kfb0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99a0",
+      "attendee_id": "cfpq48ka041deltqadug",
+      "attendee": {
+        "id": "cfpq48ka041deltqadug",
+        "name": "Shisheyu",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcasaaaisfo69il7kg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99a0",
+      "attendee_id": "cnbkj8ibk2f212upcfh0",
+      "attendee": {
+        "id": "cnbkj8ibk2f212upcfh0",
+        "name": "TPK",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tcauaaaisfo69il7m0",
+      "event_id": "d79rasjsljdc9ttc99a0",
+      "tag_id": "d7sihblfg0e3kg1q12f0",
+      "tag": {
+        "id": "d7sihblfg0e3kg1q12f0",
+        "name": "Arachnophobie",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7sihddfg0e3kg1q12g0",
+            "language_code": "en",
+            "name": "Arachnophobia",
+            "tag_id": "d7sihblfg0e3kg1q12f0"
+          }
+        ]
+      }
+    }
+  ]
+}

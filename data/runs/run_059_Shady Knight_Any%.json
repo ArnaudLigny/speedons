@@ -1,0 +1,133 @@
+{
+  "id": "d79rasjsljdc9ttc99o0",
+  "position": 59,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 1200000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Shady Knight",
+    "category_name": "Any%",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:20:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T06:35:34.935Z",
+  "ends_at": "2026-05-10T07:00:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc99og",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc99o0",
+      "attendee_id": "d79rasjsljdc9ttc99n0",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc99n0",
+        "name": "Chevalmulticolore",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc99ng",
+            "type": "YOUTUBE",
+            "value": "Chevalmulticolore",
+            "attendee_id": "d79rasjsljdc9ttc99n0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu1r008b4g8269fa20",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99o0",
+      "attendee_id": "cfe4ti924nn1olqcqos0",
+      "attendee": {
+        "id": "cfe4ti924nn1olqcqos0",
+        "name": "Banzai",
+        "connections": [
+          {
+            "id": "cfe4tl124nn1olqcqov0",
+            "type": "TWITCH",
+            "value": "banzai99",
+            "attendee_id": "cfe4ti924nn1olqcqos0"
+          },
+          {
+            "id": "cujsffoveee0k23j9qog",
+            "type": "TWITTER",
+            "value": "BanzaiBN",
+            "attendee_id": "cfe4ti924nn1olqcqos0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu1so08b4g8269fa80",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99o0",
+      "attendee_id": "d7g0pgiukf3beqbran90",
+      "attendee": {
+        "id": "d7g0pgiukf3beqbran90",
+        "name": "Leroms",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcd4mj1jo572e3kh7g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99o0",
+      "attendee_id": "c94au9ave6fn5d1j6a00",
+      "attendee": {
+        "id": "c94au9ave6fn5d1j6a00",
+        "name": "Chachamaxx",
+        "connections": [
+          {
+            "id": "c94bevive6fn5d1j6uo0",
+            "type": "TWITCH",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          },
+          {
+            "id": "cujsfh8veee0k23j9rn0",
+            "type": "TWITTER",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tcd62aaisfo69il9jg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99o0",
+      "attendee_id": "cfe52dp24nn1olqcqujg",
+      "attendee": {
+        "id": "cfe52dp24nn1olqcqujg",
+        "name": "KEMIST",
+        "connections": [
+          {
+            "id": "cfe52f124nn1olqcqumg",
+            "type": "TWITCH",
+            "value": "kemist_c10h15n",
+            "attendee_id": "cfe52dp24nn1olqcqujg"
+          }
+        ]
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tcd86j1jo572e3kh9g",
+      "event_id": "d79rasjsljdc9ttc99o0",
+      "tag_id": "d7qkmcg5klv0lki9alkg",
+      "tag": {
+        "id": "d7qkmcg5klv0lki9alkg",
+        "name": "Motion Sickness",
+        "description": "",
+        "translations": []
+      }
+    }
+  ]
+}

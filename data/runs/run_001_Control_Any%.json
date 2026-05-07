@@ -1,0 +1,129 @@
+{
+  "id": "d79rasbsljdc9ttc95v0",
+  "position": 1,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 3540000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Control",
+    "category_name": "Any%",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:59:00",
+    "flags": 2
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-07T16:00:00Z",
+  "ends_at": "2026-05-07T17:04:00Z",
+  "participants": [
+    {
+      "id": "d79rasbsljdc9ttc95vg",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc95v0",
+      "attendee_id": "d79rasbsljdc9ttc95u0",
+      "attendee": {
+        "id": "d79rasbsljdc9ttc95u0",
+        "name": "Hooki",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "d79rasbsljdc9ttc95ug",
+            "type": "TWITCH",
+            "value": "hooki____",
+            "attendee_id": "d79rasbsljdc9ttc95u0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7g1d6qukf3beqbrb480",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc95v0",
+      "attendee_id": "cnbkeo2bk2f212upc8g0",
+      "attendee": {
+        "id": "cnbkeo2bk2f212upc8g0",
+        "name": "Nimelya",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "cujsfhoveee0k23j9s10",
+            "type": "TWITCH",
+            "value": "nimelya",
+            "attendee_id": "cnbkeo2bk2f212upc8g0"
+          },
+          {
+            "id": "cujsfhoveee0k23j9s1g",
+            "type": "TWITTER",
+            "value": "nimelya",
+            "attendee_id": "cnbkeo2bk2f212upc8g0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7g1d9aukf3beqbrb4bg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc95v0",
+      "attendee_id": "d7g138aukf3beqbrast0",
+      "attendee": {
+        "id": "d7g138aukf3beqbrast0",
+        "name": "Tizona",
+        "pronouns": "elle/iel",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sik34rrdinih8hv6cg",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc95v0",
+      "attendee_id": "cunqc7nhqd13mjeltv8g",
+      "attendee": {
+        "id": "cunqc7nhqd13mjeltv8g",
+        "name": "DamDamLive",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sik5dfg0e3kg1q13h0",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc95v0",
+      "attendee_id": "cfe52dp24nn1olqcqujg",
+      "attendee": {
+        "id": "cfe52dp24nn1olqcqujg",
+        "name": "KEMIST",
+        "connections": [
+          {
+            "id": "cfe52f124nn1olqcqumg",
+            "type": "TWITCH",
+            "value": "kemist_c10h15n",
+            "attendee_id": "cfe52dp24nn1olqcqujg"
+          }
+        ]
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7qj08j2p9uag6dr6li0",
+      "event_id": "d79rasbsljdc9ttc95v0",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "d79rasjsljdc9ttc9al0",
+  "position": 75,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 4560000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Super Mario Odyssey",
+    "category_name": "Any%",
+    "category_description": "",
+    "platform_name": "Switch 2",
+    "estimate": "1:16:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T18:58:34.935Z",
+  "ends_at": "2026-05-10T20:19:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc9alg",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc9al0",
+      "attendee_id": "d79rasjsljdc9ttc9aj0",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc9aj0",
+        "name": "logis",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc9ajg",
+            "type": "TWITCH",
+            "value": "logis_smo",
+            "attendee_id": "d79rasjsljdc9ttc9aj0"
+          },
+          {
+            "id": "d79rasjsljdc9ttc9ak0",
+            "type": "TWITTER",
+            "value": "logis_koopa",
+            "attendee_id": "d79rasjsljdc9ttc9aj0"
+          },
+          {
+            "id": "d79rasjsljdc9ttc9akg",
+            "type": "YOUTUBE",
+            "value": "logis3191",
+            "attendee_id": "d79rasjsljdc9ttc9aj0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu77808b4g8269fh0g",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9al0",
+      "attendee_id": "d7g0jpiukf3beqbrak30",
+      "attendee": {
+        "id": "d7g0jpiukf3beqbrak30",
+        "name": "Flavien",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7pu78o08b4g8269fh50",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9al0",
+      "attendee_id": "d7g0pi2ukf3beqbrana0",
+      "attendee": {
+        "id": "d7g0pi2ukf3beqbrana0",
+        "name": "Lightron",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7pu7a808b4g8269fh9g",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9al0",
+      "attendee_id": "c990ren9rqh8tg5c41eg",
+      "attendee": {
+        "id": "c990ren9rqh8tg5c41eg",
+        "name": "MisterMV",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcmbmj1jo572e3km8g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9al0",
+      "attendee_id": "cunqc7nhqd13mjeltv8g",
+      "attendee": {
+        "id": "cunqc7nhqd13mjeltv8g",
+        "name": "DamDamLive",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcmcuj1jo572e3kmb0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9al0",
+      "attendee_id": "cg73pselgn96rflkvtk0",
+      "attendee": {
+        "id": "cg73pselgn96rflkvtk0",
+        "name": "ZeratoR",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

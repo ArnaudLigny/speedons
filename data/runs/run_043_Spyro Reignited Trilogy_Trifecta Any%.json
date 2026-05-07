@@ -1,0 +1,134 @@
+{
+  "id": "d79rasjsljdc9ttc98q0",
+  "position": 43,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 6300000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Spyro Reignited Trilogy",
+    "category_name": "Trifecta Any%",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "1:45:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-09T13:47:34.935Z",
+  "ends_at": "2026-05-09T15:37:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc98qg",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc98q0",
+      "attendee_id": "c94atfave6fn5d1j6920",
+      "attendee": {
+        "id": "c94atfave6fn5d1j6920",
+        "name": "Asukero",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "c94bcmave6fn5d1j6th0",
+            "type": "TWITCH",
+            "value": "asukero",
+            "attendee_id": "c94atfave6fn5d1j6920"
+          },
+          {
+            "id": "cn6o2657m4hq41ukr1u0",
+            "type": "TWITTER",
+            "value": "Asuker0",
+            "attendee_id": "c94atfave6fn5d1j6920"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptst008b4g8269f2vg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc98q0",
+      "attendee_id": "cfe4q0124nn1olqcqk3g",
+      "attendee": {
+        "id": "cfe4q0124nn1olqcqk3g",
+        "name": "7eraser7",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "cfe4q3924nn1olqcqk6g",
+            "type": "TWITCH",
+            "value": "7eraser7",
+            "attendee_id": "cfe4q0124nn1olqcqk3g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqttg",
+            "type": "TWITTER",
+            "value": "7eraser7",
+            "attendee_id": "cfe4q0124nn1olqcqk3g"
+          },
+          {
+            "id": "d79rasjsljdc9ttc97hg",
+            "type": "YOUTUBE",
+            "value": "7eraser7",
+            "attendee_id": "cfe4q0124nn1olqcqk3g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptt0808b4g8269f34g",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc98q0",
+      "attendee_id": "d7g0sm2ukf3beqbrapbg",
+      "attendee": {
+        "id": "d7g0sm2ukf3beqbrapbg",
+        "name": "Mugornu",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tc8lej1jo572e3kdn0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc98q0",
+      "attendee_id": "c990ren9rqh8tg5c41eg",
+      "attendee": {
+        "id": "c990ren9rqh8tg5c41eg",
+        "name": "MisterMV",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tc8nqaaisfo69il600",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc98q0",
+      "attendee_id": "cg73pselgn96rflkvtk0",
+      "attendee": {
+        "id": "cg73pselgn96rflkvtk0",
+        "name": "ZeratoR",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tc8p2aaisfo69il61g",
+      "event_id": "d79rasjsljdc9ttc98q0",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

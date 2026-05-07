@@ -1,0 +1,109 @@
+{
+  "id": "d79rasjsljdc9ttc98d0",
+  "position": 36,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 5400000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Metroid Fusion",
+    "category_name": "0%",
+    "category_description": "",
+    "platform_name": "Game Boy Advance",
+    "estimate": "1:30:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-09T05:05:34.935Z",
+  "ends_at": "2026-05-09T06:40:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc98dg",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc98d0",
+      "attendee_id": "c94au03ta74f6q1gr8h0",
+      "attendee": {
+        "id": "c94au03ta74f6q1gr8h0",
+        "name": "Destructor",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "c94be9qve6fn5d1j6uc0",
+            "type": "TWITCH",
+            "value": "destructor642",
+            "attendee_id": "c94au03ta74f6q1gr8h0"
+          },
+          {
+            "id": "d79rasjsljdc9ttc98cg",
+            "type": "YOUTUBE",
+            "value": "destructor6426",
+            "attendee_id": "c94au03ta74f6q1gr8h0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptreg08b4g8269f03g",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc98d0",
+      "attendee_id": "cujsffoveee0k23j9qmg",
+      "attendee": {
+        "id": "cujsffoveee0k23j9qmg",
+        "name": "Arna",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7ptrgg08b4g8269f070",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc98d0",
+      "attendee_id": "c94au2qve6fn5d1j69o0",
+      "attendee": {
+        "id": "c94au2qve6fn5d1j69o0",
+        "name": "Gala",
+        "connections": [
+          {
+            "id": "c94bec3ta74f6q1grtl0",
+            "type": "TWITCH",
+            "value": "gala_tv",
+            "attendee_id": "c94au2qve6fn5d1j69o0"
+          },
+          {
+            "id": "cujsfjgveee0k23j9t0g",
+            "type": "TWITTER",
+            "value": "Ine_Gala_Ble",
+            "attendee_id": "c94au2qve6fn5d1j69o0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sjgdtfg0e3kg1q1i00",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc98d0",
+      "attendee_id": "cfpq48ka041deltqadug",
+      "attendee": {
+        "id": "cfpq48ka041deltqadug",
+        "name": "Shisheyu",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sjgftfg0e3kg1q1i2g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc98d0",
+      "attendee_id": "cfppq4ka041deltq9g3g",
+      "attendee": {
+        "id": "cfppq4ka041deltq9g3g",
+        "name": "Yamato",
+        "pronouns": "il/al",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

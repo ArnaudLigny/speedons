@@ -1,0 +1,109 @@
+{
+  "id": "d79rasjsljdc9ttc9a1g",
+  "position": 65,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 3000000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Iconoclasts",
+    "category_name": "No Airswim",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:50:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T12:02:34.935Z",
+  "ends_at": "2026-05-10T12:57:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc9a20",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc9a1g",
+      "attendee_id": "d79rasjsljdc9ttc9a0g",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc9a0g",
+        "name": "JeeWee",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc9a10",
+            "type": "TWITCH",
+            "value": "jeewee_tw",
+            "attendee_id": "d79rasjsljdc9ttc9a0g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu3qg08b4g8269fcm0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9a1g",
+      "attendee_id": "d7g0k0aukf3beqbrak50",
+      "attendee": {
+        "id": "d7g0k0aukf3beqbrak50",
+        "name": "Getarez",
+        "pronouns": "iel/ael",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7pu3sg08b4g8269fcsg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9a1g",
+      "attendee_id": "d7g112iukf3beqbrarng",
+      "attendee": {
+        "id": "d7g112iukf3beqbrarng",
+        "name": "Thomiño",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcf4ej1jo572e3kiu0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9a1g",
+      "attendee_id": "d7sger69uqrgovvvk69g",
+      "attendee": {
+        "id": "d7sger69uqrgovvvk69g",
+        "name": "Horty",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcf62aaisfo69ilb70",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9a1g",
+      "attendee_id": "cfpq48ka041deltqadug",
+      "attendee": {
+        "id": "cfpq48ka041deltqadug",
+        "name": "Shisheyu",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tcf7aaaisfo69ilb8g",
+      "event_id": "d79rasjsljdc9ttc9a1g",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "d79rasjsljdc9ttc99dg",
+  "position": 52,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 2400000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "The Elder Scrolls V: Skyrim",
+    "category_name": "Main Quest - Any%",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:40:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-09T23:12:34.935Z",
+  "ends_at": "2026-05-09T23:57:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc99e0",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc99dg",
+      "attendee_id": "d79rasjsljdc9ttc99c0",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc99c0",
+        "name": "Iluvan",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc99cg",
+            "type": "TWITCH",
+            "value": "iluvan",
+            "attendee_id": "d79rasjsljdc9ttc99c0"
+          },
+          {
+            "id": "d79rasjsljdc9ttc99d0",
+            "type": "YOUTUBE",
+            "value": "Iluvan",
+            "attendee_id": "d79rasjsljdc9ttc99c0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptvho08b4g8269f6rg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99dg",
+      "attendee_id": "d7g0huiukf3beqbraj70",
+      "attendee": {
+        "id": "d7g0huiukf3beqbraj70",
+        "name": "Darki",
+        "pronouns": "iel",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7ptvjo08b4g8269f6vg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99dg",
+      "attendee_id": "c94at7qve6fn5d1j68p0",
+      "attendee": {
+        "id": "c94at7qve6fn5d1j68p0",
+        "name": "Rocher",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "c94bbu2ve6fn5d1j6t20",
+            "type": "TWITCH",
+            "value": "rocher_brockas",
+            "attendee_id": "c94at7qve6fn5d1j68p0"
+          },
+          {
+            "id": "cn6o2657m4hq41ukr1cg",
+            "type": "TWITTER",
+            "value": "Rocher_brockas",
+            "attendee_id": "c94at7qve6fn5d1j68p0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tcbcqaaisfo69il81g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99dg",
+      "attendee_id": "cfpq48ka041deltqadug",
+      "attendee": {
+        "id": "cfpq48ka041deltqadug",
+        "name": "Shisheyu",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcbeaaaisfo69il83g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99dg",
+      "attendee_id": "cnbkj8ibk2f212upcfh0",
+      "attendee": {
+        "id": "cnbkj8ibk2f212upcfh0",
+        "name": "TPK",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tcbg2aaisfo69il850",
+      "event_id": "d79rasjsljdc9ttc99dg",
+      "tag_id": "d7qkmcg5klv0lki9alkg",
+      "tag": {
+        "id": "d7qkmcg5klv0lki9alkg",
+        "name": "Motion Sickness",
+        "description": "",
+        "translations": []
+      }
+    }
+  ]
+}

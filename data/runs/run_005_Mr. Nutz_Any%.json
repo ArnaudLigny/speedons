@@ -1,0 +1,92 @@
+{
+  "id": "d79rasbsljdc9ttc966g",
+  "position": 5,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 0,
+  "duration": 3634935,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Mr. Nutz",
+    "category_name": "Any%",
+    "category_description": "",
+    "platform_name": "Super Nintendo",
+    "estimate": "0:32:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-07T19:47:00Z",
+  "ends_at": "2026-05-07T20:47:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasbsljdc9ttc9670",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc966g",
+      "attendee_id": "d79rasbsljdc9ttc965g",
+      "attendee": {
+        "id": "d79rasbsljdc9ttc965g",
+        "name": "Le Hulk",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasbsljdc9ttc9660",
+            "type": "TWITCH",
+            "value": "le_hulk",
+            "attendee_id": "d79rasbsljdc9ttc965g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7g1ea2ukf3beqbrb5k0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc966g",
+      "attendee_id": "c990ren9rqh8tg5c41eg",
+      "attendee": {
+        "id": "c990ren9rqh8tg5c41eg",
+        "name": "MisterMV",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7g1ebqukf3beqbrb5ng",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc966g",
+      "attendee_id": "cfppq4ka041deltq9g3g",
+      "attendee": {
+        "id": "cfppq4ka041deltq9g3g",
+        "name": "Yamato",
+        "pronouns": "il/al",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7siln4rrdinih8hv7e0",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc966g",
+      "attendee_id": "d7sger69uqrgovvvk69g",
+      "attendee": {
+        "id": "d7sger69uqrgovvvk69g",
+        "name": "Horty",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7silq4rrdinih8hv7g0",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc966g",
+      "attendee_id": "cn6o2657m4hq41ukr010",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukr010",
+        "name": "Vicky Spleen",
+        "pronouns": "elle",
+        "description": " ",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

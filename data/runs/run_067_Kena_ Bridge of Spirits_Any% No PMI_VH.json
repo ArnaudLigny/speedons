@@ -1,0 +1,116 @@
+{
+  "id": "d79rasjsljdc9ttc9a50",
+  "position": 67,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 1860000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Kena: Bridge of Spirits",
+    "category_name": "Any% No PMI/VH",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:31:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T13:52:34.935Z",
+  "ends_at": "2026-05-10T14:28:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc9a5g",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc9a50",
+      "attendee_id": "cn6o2657m4hq41ukqthg",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukqthg",
+        "name": "Bouzny",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc9a4g",
+            "type": "TWITCH",
+            "value": "bouzny",
+            "attendee_id": "cn6o2657m4hq41ukqthg"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqti0",
+            "type": "TWITTER",
+            "value": "Bouzny",
+            "attendee_id": "cn6o2657m4hq41ukqthg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu47808b4g8269fdhg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9a50",
+      "attendee_id": "c94at12ve6fn5d1j68h0",
+      "attendee": {
+        "id": "c94at12ve6fn5d1j68h0",
+        "name": "Lenino",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "cncd63a1amiqud9it310",
+            "type": "TWITCH",
+            "value": "LeninoKun",
+            "attendee_id": "c94at12ve6fn5d1j68h0"
+          },
+          {
+            "id": "cncd6421amiqud9it320",
+            "type": "TWITTER",
+            "value": "LeninoKun",
+            "attendee_id": "c94at12ve6fn5d1j68h0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu48o08b4g8269fdm0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9a50",
+      "attendee_id": "d79rasbsljdc9ttc9610",
+      "attendee": {
+        "id": "d79rasbsljdc9ttc9610",
+        "name": "Shikikairib",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasbsljdc9ttc961g",
+            "type": "TWITCH",
+            "value": "shikikairib",
+            "attendee_id": "d79rasbsljdc9ttc9610"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tciqmj1jo572e3kk00",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9a50",
+      "attendee_id": "d7sger69uqrgovvvk69g",
+      "attendee": {
+        "id": "d7sger69uqrgovvvk69g",
+        "name": "Horty",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcisaaaisfo69ilc9g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9a50",
+      "attendee_id": "cfpq48ka041deltqadug",
+      "attendee": {
+        "id": "cfpq48ka041deltqadug",
+        "name": "Shisheyu",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

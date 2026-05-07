@@ -1,0 +1,143 @@
+{
+  "id": "d79rasbsljdc9ttc97ag",
+  "position": 19,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 600000,
+  "duration": 1800000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Skyblazer",
+    "category_name": "Any%",
+    "category_description": "",
+    "platform_name": "Super Nintendo",
+    "estimate": "0:30:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T10:39:34.935Z",
+  "ends_at": "2026-05-08T11:19:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasbsljdc9ttc97b0",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc97ag",
+      "attendee_id": "cfe4lp924nn1olqcqen0",
+      "attendee": {
+        "id": "cfe4lp924nn1olqcqen0",
+        "name": "Axodo",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "cfe4lr924nn1olqcqep0",
+            "type": "TWITCH",
+            "value": "axodo",
+            "attendee_id": "cfe4lp924nn1olqcqen0"
+          },
+          {
+            "id": "cn6o2657m4hq41ukr180",
+            "type": "TWITTER",
+            "value": "axodo1",
+            "attendee_id": "cfe4lp924nn1olqcqen0"
+          },
+          {
+            "id": "d79rasbsljdc9ttc97a0",
+            "type": "YOUTUBE",
+            "value": "Axodo563",
+            "attendee_id": "cfe4lp924nn1olqcqen0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptmcg08b4g8269eoj0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc97ag",
+      "attendee_id": "d79rasbsljdc9ttc965g",
+      "attendee": {
+        "id": "d79rasbsljdc9ttc965g",
+        "name": "Le Hulk",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasbsljdc9ttc9660",
+            "type": "TWITCH",
+            "value": "le_hulk",
+            "attendee_id": "d79rasbsljdc9ttc965g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj4vkrrdinih8hverg",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc97ag",
+      "attendee_id": "c94au9ave6fn5d1j6a00",
+      "attendee": {
+        "id": "c94au9ave6fn5d1j6a00",
+        "name": "Chachamaxx",
+        "connections": [
+          {
+            "id": "c94bevive6fn5d1j6uo0",
+            "type": "TWITCH",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          },
+          {
+            "id": "cujsfh8veee0k23j9rn0",
+            "type": "TWITTER",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj515fg0e3kg1q1c30",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc97ag",
+      "attendee_id": "c94aufqve6fn5d1j6a9g",
+      "attendee": {
+        "id": "c94aufqve6fn5d1j6a9g",
+        "name": "Jarm0u",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "c94bflave6fn5d1j6v60",
+            "type": "TWITCH",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqvu0",
+            "type": "TWITTER",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          }
+        ]
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sj54dfg0e3kg1q1c4g",
+      "event_id": "d79rasbsljdc9ttc97ag",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "d79rasbsljdc9ttc9600",
+  "position": 2,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 600000,
+  "duration": 2520000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Kirby: Nightmare in Dreamland",
+    "category_name": "Any%",
+    "category_description": "",
+    "platform_name": "Wii U Virtual Console",
+    "estimate": "0:42:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-07T17:04:00Z",
+  "ends_at": "2026-05-07T17:56:00Z",
+  "participants": [
+    {
+      "id": "d79rasbsljdc9ttc960g",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc9600",
+      "attendee_id": "cfe505124nn1olqcqrs0",
+      "attendee": {
+        "id": "cfe505124nn1olqcqrs0",
+        "name": "H1Style",
+        "connections": [
+          {
+            "id": "cfe506p24nn1olqcqs00",
+            "type": "TWITCH",
+            "value": "h1styie",
+            "attendee_id": "cfe505124nn1olqcqrs0"
+          },
+          {
+            "id": "cn6o2657m4hq41ukquq0",
+            "type": "TWITTER",
+            "value": "H1Style",
+            "attendee_id": "cfe505124nn1olqcqrs0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7g1djqukf3beqbrb4jg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc9600",
+      "attendee_id": "c94au9ave6fn5d1j6a00",
+      "attendee": {
+        "id": "c94au9ave6fn5d1j6a00",
+        "name": "Chachamaxx",
+        "connections": [
+          {
+            "id": "c94bevive6fn5d1j6uo0",
+            "type": "TWITCH",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          },
+          {
+            "id": "cujsfh8veee0k23j9rn0",
+            "type": "TWITTER",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7g1dmiukf3beqbrb4n0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc9600",
+      "attendee_id": "cn6o2657m4hq41ukr21g",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukr21g",
+        "name": "Qentiko",
+        "connections": [
+          {
+            "id": "cn6o2657m4hq41ukr220",
+            "type": "TWITCH",
+            "value": "qentiko",
+            "attendee_id": "cn6o2657m4hq41ukr21g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukr22g",
+            "type": "TWITTER",
+            "value": "Qen_Tiko",
+            "attendee_id": "cn6o2657m4hq41ukr21g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sikb5fg0e3kg1q13kg",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc9600",
+      "attendee_id": "cunqc7nhqd13mjeltv8g",
+      "attendee": {
+        "id": "cunqc7nhqd13mjeltv8g",
+        "name": "DamDamLive",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sikd4rrdinih8hv6j0",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc9600",
+      "attendee_id": "cfe52dp24nn1olqcqujg",
+      "attendee": {
+        "id": "cfe52dp24nn1olqcqujg",
+        "name": "KEMIST",
+        "connections": [
+          {
+            "id": "cfe52f124nn1olqcqumg",
+            "type": "TWITCH",
+            "value": "kemist_c10h15n",
+            "attendee_id": "cfe52dp24nn1olqcqujg"
+          }
+        ]
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

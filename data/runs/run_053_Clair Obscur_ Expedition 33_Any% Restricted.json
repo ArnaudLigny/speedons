@@ -1,0 +1,116 @@
+{
+  "id": "d79rasjsljdc9ttc99f0",
+  "position": 53,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 5820000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Clair Obscur: Expedition 33",
+    "category_name": "Any% Restricted",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "1:37:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-09T23:57:34.935Z",
+  "ends_at": "2026-05-10T01:39:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc99fg",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc99f0",
+      "attendee_id": "cfe4o7h24nn1olqcqhpg",
+      "attendee": {
+        "id": "cfe4o7h24nn1olqcqhpg",
+        "name": "Wharax",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "cfe4oah24nn1olqcqhsg",
+            "type": "TWITCH",
+            "value": "wharax_",
+            "attendee_id": "cfe4o7h24nn1olqcqhpg"
+          },
+          {
+            "id": "d79rasjsljdc9ttc99eg",
+            "type": "YOUTUBE",
+            "value": "wharaxspeedrun3304",
+            "attendee_id": "cfe4o7h24nn1olqcqhpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7qjfgr2p9uag6dr6si0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99f0",
+      "attendee_id": "d7qjf1j2p9uag6dr6s30",
+      "attendee": {
+        "id": "d7qjf1j2p9uag6dr6s30",
+        "name": "Guillaume Broche",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcbk2aaisfo69il890",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99f0",
+      "attendee_id": "d7g0u02ukf3beqbraq3g",
+      "attendee": {
+        "id": "d7g0u02ukf3beqbraq3g",
+        "name": "SamoSs",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcbmqaaisfo69il8c0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99f0",
+      "attendee_id": "cfppq4ka041deltq9g3g",
+      "attendee": {
+        "id": "cfppq4ka041deltq9g3g",
+        "name": "Yamato",
+        "pronouns": "il/al",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcboej1jo572e3kg4g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99f0",
+      "attendee_id": "cg73pselgn96rflkvtk0",
+      "attendee": {
+        "id": "cg73pselgn96rflkvtk0",
+        "name": "ZeratoR",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tcbpmj1jo572e3kg60",
+      "event_id": "d79rasjsljdc9ttc99f0",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "d79rasjsljdc9ttc99b0",
+  "position": 51,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 3120000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Resident Evil",
+    "category_name": "Chris/Jill Best Ending Major Glitch",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:52:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-09T22:15:34.935Z",
+  "ends_at": "2026-05-09T23:12:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc99bg",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc99b0",
+      "attendee_id": "cfe4sbh24nn1olqcqnhg",
+      "attendee": {
+        "id": "cfe4sbh24nn1olqcqnhg",
+        "name": "Dragvrallass",
+        "connections": [
+          {
+            "id": "cfe4sep24nn1olqcqnlg",
+            "type": "TWITCH",
+            "value": "dragvrallass",
+            "attendee_id": "cfe4sbh24nn1olqcqnhg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptuq008b4g8269f6a0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99b0",
+      "attendee_id": "c94au9ave6fn5d1j6a00",
+      "attendee": {
+        "id": "c94au9ave6fn5d1j6a00",
+        "name": "Chachamaxx",
+        "connections": [
+          {
+            "id": "c94bevive6fn5d1j6uo0",
+            "type": "TWITCH",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          },
+          {
+            "id": "cujsfh8veee0k23j9rn0",
+            "type": "TWITTER",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pturg08b4g8269f6e0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99b0",
+      "attendee_id": "c94aufqve6fn5d1j6a9g",
+      "attendee": {
+        "id": "c94aufqve6fn5d1j6a9g",
+        "name": "Jarm0u",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "c94bflave6fn5d1j6v60",
+            "type": "TWITCH",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqvu0",
+            "type": "TWITTER",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tcb3aaaisfo69il7p0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99b0",
+      "attendee_id": "cfpq48ka041deltqadug",
+      "attendee": {
+        "id": "cfpq48ka041deltqadug",
+        "name": "Shisheyu",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcb56j1jo572e3kfhg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99b0",
+      "attendee_id": "cnbkj8ibk2f212upcfh0",
+      "attendee": {
+        "id": "cnbkj8ibk2f212upcfh0",
+        "name": "TPK",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tcb6qaaisfo69il7r0",
+      "event_id": "d79rasjsljdc9ttc99b0",
+      "tag_id": "d7sihblfg0e3kg1q12f0",
+      "tag": {
+        "id": "d7sihblfg0e3kg1q12f0",
+        "name": "Arachnophobie",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7sihddfg0e3kg1q12g0",
+            "language_code": "en",
+            "name": "Arachnophobia",
+            "tag_id": "d7sihblfg0e3kg1q12f0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tcb7ej1jo572e3kfjg",
+      "event_id": "d79rasjsljdc9ttc99b0",
+      "tag_id": "d7qj1fr2p9uag6dr6m9g",
+      "tag": {
+        "id": "d7qj1fr2p9uag6dr6m9g",
+        "name": "Gore",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1hj2p9uag6dr6mbg",
+            "language_code": "en",
+            "name": "Gore",
+            "tag_id": "d7qj1fr2p9uag6dr6m9g"
+          }
+        ]
+      }
+    }
+  ]
+}

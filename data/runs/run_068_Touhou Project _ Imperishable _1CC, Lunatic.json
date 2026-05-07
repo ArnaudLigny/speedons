@@ -1,0 +1,128 @@
+{
+  "id": "d79rasjsljdc9ttc9a6g",
+  "position": 68,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 2100000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Touhou Project : Imperishable Night",
+    "category_name": "1CC, Lunatic",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:35:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T14:28:34.935Z",
+  "ends_at": "2026-05-10T15:08:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc9a70",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc9a6g",
+      "attendee_id": "d79rasjsljdc9ttc9a60",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc9a60",
+        "name": "Dame Sandwich",
+        "pronouns": "elle/iel",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7pu5hg08b4g8269fe6g",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9a6g",
+      "attendee_id": "d7g0k0aukf3beqbrak50",
+      "attendee": {
+        "id": "d7g0k0aukf3beqbrak50",
+        "name": "Getarez",
+        "pronouns": "iel/ael",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7pu5io08b4g8269fea0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9a6g",
+      "attendee_id": "d7g0trqukf3beqbraq10",
+      "attendee": {
+        "id": "d7g0trqukf3beqbraq10",
+        "name": "Prisma",
+        "pronouns": "elle",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcj16j1jo572e3kk5g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9a6g",
+      "attendee_id": "c94aufqve6fn5d1j6a9g",
+      "attendee": {
+        "id": "c94aufqve6fn5d1j6a9g",
+        "name": "Jarm0u",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "c94bflave6fn5d1j6v60",
+            "type": "TWITCH",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqvu0",
+            "type": "TWITTER",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tcj3ej1jo572e3kk80",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9a6g",
+      "attendee_id": "cfppq4ka041deltq9g3g",
+      "attendee": {
+        "id": "cfppq4ka041deltq9g3g",
+        "name": "Yamato",
+        "pronouns": "il/al",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tcj56j1jo572e3kk9g",
+      "event_id": "d79rasjsljdc9ttc9a6g",
+      "tag_id": "d7siiusrrdinih8hv600",
+      "tag": {
+        "id": "d7siiusrrdinih8hv600",
+        "name": "Défilement Rapide",
+        "description": "",
+        "translations": []
+      }
+    },
+    {
+      "id": "d7tcj5uj1jo572e3kkb0",
+      "event_id": "d79rasjsljdc9ttc9a6g",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

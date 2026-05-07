@@ -1,0 +1,120 @@
+{
+  "id": "d79rasbsljdc9ttc96k0",
+  "position": 9,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 4800000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Shadow Generations",
+    "category_name": "Any% Unrestricted",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "1:20:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-07T23:05:34.935Z",
+  "ends_at": "2026-05-08T00:30:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasbsljdc9ttc96kg",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc96k0",
+      "attendee_id": "d79rasbsljdc9ttc96j0",
+      "attendee": {
+        "id": "d79rasbsljdc9ttc96j0",
+        "name": "boul2petank",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasbsljdc9ttc96jg",
+            "type": "TWITCH",
+            "value": "boul2petank",
+            "attendee_id": "d79rasbsljdc9ttc96j0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7g1f6qukf3beqbrb730",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc96k0",
+      "attendee_id": "d7g0gtaukf3beqbraiig",
+      "attendee": {
+        "id": "d7g0gtaukf3beqbraiig",
+        "name": "Chachoukie",
+        "pronouns": "elle/ael",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7g1f8aukf3beqbrb76g",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc96k0",
+      "attendee_id": "d7g0m7aukf3beqbrale0",
+      "attendee": {
+        "id": "d7g0m7aukf3beqbrale0",
+        "name": "Izaky",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sioj4rrdinih8hv8rg",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc96k0",
+      "attendee_id": "d7sghqfc6uejcdabctq0",
+      "attendee": {
+        "id": "d7sghqfc6uejcdabctq0",
+        "name": "Etoiles",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7siom4rrdinih8hv8u0",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc96k0",
+      "attendee_id": "cg73pselgn96rflkvtk0",
+      "attendee": {
+        "id": "cg73pselgn96rflkvtk0",
+        "name": "ZeratoR",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sioocrrdinih8hv8vg",
+      "event_id": "d79rasbsljdc9ttc96k0",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sioqcrrdinih8hv910",
+      "event_id": "d79rasbsljdc9ttc96k0",
+      "tag_id": "d7qkmcg5klv0lki9alkg",
+      "tag": {
+        "id": "d7qkmcg5klv0lki9alkg",
+        "name": "Motion Sickness",
+        "description": "",
+        "translations": []
+      }
+    }
+  ]
+}

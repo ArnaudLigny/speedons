@@ -1,0 +1,149 @@
+{
+  "id": "d79rasjsljdc9ttc985g",
+  "position": 32,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 8700000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Astro Bot",
+    "category_name": "Any%",
+    "category_description": "",
+    "platform_name": "PlayStation 5",
+    "estimate": "2:25:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T23:02:34.935Z",
+  "ends_at": "2026-05-09T01:32:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc9860",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc985g",
+      "attendee_id": "c94at12ve6fn5d1j68h0",
+      "attendee": {
+        "id": "c94at12ve6fn5d1j68h0",
+        "name": "Lenino",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "cncd63a1amiqud9it310",
+            "type": "TWITCH",
+            "value": "LeninoKun",
+            "attendee_id": "c94at12ve6fn5d1j68h0"
+          },
+          {
+            "id": "cncd6421amiqud9it320",
+            "type": "TWITTER",
+            "value": "LeninoKun",
+            "attendee_id": "c94at12ve6fn5d1j68h0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptprg08b4g8269eu40",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc985g",
+      "attendee_id": "d79rasjsljdc9ttc986g",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc986g",
+        "name": "DrBeber",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc9870",
+            "type": "TWITCH",
+            "value": "drbeber",
+            "attendee_id": "d79rasjsljdc9ttc986g"
+          },
+          {
+            "id": "d79rasjsljdc9ttc987g",
+            "type": "YOUTUBE",
+            "value": "drbeber",
+            "attendee_id": "d79rasjsljdc9ttc986g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sjbl4rrdinih8hvj1g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc985g",
+      "attendee_id": "cnbkeo2bk2f212upc8g0",
+      "attendee": {
+        "id": "cnbkeo2bk2f212upc8g0",
+        "name": "Nimelya",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "cujsfhoveee0k23j9s10",
+            "type": "TWITCH",
+            "value": "nimelya",
+            "attendee_id": "cnbkeo2bk2f212upc8g0"
+          },
+          {
+            "id": "cujsfhoveee0k23j9s1g",
+            "type": "TWITTER",
+            "value": "nimelya",
+            "attendee_id": "cnbkeo2bk2f212upc8g0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sjbocrrdinih8hvj5g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc985g",
+      "attendee_id": "cfe52dp24nn1olqcqujg",
+      "attendee": {
+        "id": "cfe52dp24nn1olqcqujg",
+        "name": "KEMIST",
+        "connections": [
+          {
+            "id": "cfe52f124nn1olqcqumg",
+            "type": "TWITCH",
+            "value": "kemist_c10h15n",
+            "attendee_id": "cfe52dp24nn1olqcqujg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sjbqkrrdinih8hvj8g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc985g",
+      "attendee_id": "c990ren9rqh8tg5c41eg",
+      "attendee": {
+        "id": "c990ren9rqh8tg5c41eg",
+        "name": "MisterMV",
+        "pronouns": "il",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sjbvkrrdinih8hvja0",
+      "event_id": "d79rasjsljdc9ttc985g",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

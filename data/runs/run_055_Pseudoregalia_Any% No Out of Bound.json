@@ -1,0 +1,104 @@
+{
+  "id": "d79rasjsljdc9ttc99i0",
+  "position": 55,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 1200000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Pseudoregalia",
+    "category_name": "Any% No Out of Bounds",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:20:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T02:15:34.935Z",
+  "ends_at": "2026-05-10T02:40:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc99ig",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc99i0",
+      "attendee_id": "d79rasjsljdc9ttc99hg",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc99hg",
+        "name": "Brother main",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d7g19riukf3beqbrb28g",
+            "type": "TWITCH",
+            "value": "brother_main",
+            "attendee_id": "d79rasjsljdc9ttc99hg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu0cg08b4g8269f800",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99i0",
+      "attendee_id": "cunq6gvhqd13mjeltjj0",
+      "attendee": {
+        "id": "cunq6gvhqd13mjeltjj0",
+        "name": "Sovlo",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7pu0do08b4g8269f83g",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99i0",
+      "attendee_id": "cn6o2657m4hq41ukqug0",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukqug0",
+        "name": "UTSURU",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "cn6o2657m4hq41ukqugg",
+            "type": "TWITCH",
+            "value": "utsuru",
+            "attendee_id": "cn6o2657m4hq41ukqug0"
+          },
+          {
+            "id": "cnf0kgjh0cu1uhns8p7g",
+            "type": "TWITTER",
+            "value": "outsourou",
+            "attendee_id": "cn6o2657m4hq41ukqug0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tcc76j1jo572e3kgfg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99i0",
+      "attendee_id": "cfppq4ka041deltq9g3g",
+      "attendee": {
+        "id": "cfppq4ka041deltq9g3g",
+        "name": "Yamato",
+        "pronouns": "il/al",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcc8mj1jo572e3kgi0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99i0",
+      "attendee_id": "cg73pselgn96rflkvtk0",
+      "attendee": {
+        "id": "cg73pselgn96rflkvtk0",
+        "name": "ZeratoR",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

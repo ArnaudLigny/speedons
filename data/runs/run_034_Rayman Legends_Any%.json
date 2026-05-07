@@ -1,0 +1,91 @@
+{
+  "id": "d79rasjsljdc9ttc989g",
+  "position": 34,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 5880000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Rayman Legends",
+    "category_name": "Any%",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "1:38:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-09T02:32:34.935Z",
+  "ends_at": "2026-05-09T04:15:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc98a0",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc989g",
+      "attendee_id": "cfe4la124nn1olqcqef0",
+      "attendee": {
+        "id": "cfe4la124nn1olqcqef0",
+        "name": "Niorra",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "cfe4lgh24nn1olqcqeig",
+            "type": "TWITCH",
+            "value": "niorra",
+            "attendee_id": "cfe4la124nn1olqcqef0"
+          },
+          {
+            "id": "d79rasjsljdc9ttc9890",
+            "type": "TWITTER",
+            "value": "Niorra",
+            "attendee_id": "cfe4la124nn1olqcqef0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptqbo08b4g8269ev0g",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc989g",
+      "attendee_id": "cnbkh90o82mckkoop4r0",
+      "attendee": {
+        "id": "cnbkh90o82mckkoop4r0",
+        "name": "Elizya TV",
+        "connections": [
+          {
+            "id": "cujsfmoveee0k23j9uvg",
+            "type": "TWITCH",
+            "value": "elizyatv",
+            "attendee_id": "cnbkh90o82mckkoop4r0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sjeadfg0e3kg1q1h90",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc989g",
+      "attendee_id": "cfpq48ka041deltqadug",
+      "attendee": {
+        "id": "cfpq48ka041deltqadug",
+        "name": "Shisheyu",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sjectfg0e3kg1q1hbg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc989g",
+      "attendee_id": "cfppq4ka041deltq9g3g",
+      "attendee": {
+        "id": "cfppq4ka041deltq9g3g",
+        "name": "Yamato",
+        "pronouns": "il/al",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

@@ -1,0 +1,103 @@
+{
+  "id": "d79rasbsljdc9ttc96t0",
+  "position": 12,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 7320000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Dragon Quest I HD-2D Remake",
+    "category_name": "Any% (Dragon Difficulty)",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "2:02:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T04:00:34.935Z",
+  "ends_at": "2026-05-08T06:07:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasbsljdc9ttc96tg",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc96t0",
+      "attendee_id": "d79rasbsljdc9ttc96s0",
+      "attendee": {
+        "id": "d79rasbsljdc9ttc96s0",
+        "name": "Sylwer",
+        "connections": [
+          {
+            "id": "d79rasbsljdc9ttc96sg",
+            "type": "TWITCH",
+            "value": "ssylwer",
+            "attendee_id": "d79rasbsljdc9ttc96s0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj3f5fg0e3kg1q1ao0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc96t0",
+      "attendee_id": "cujsfj0veee0k23j9sng",
+      "attendee": {
+        "id": "cujsfj0veee0k23j9sng",
+        "name": "Givralyriame",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "cujsfj0veee0k23j9so0",
+            "type": "TWITCH",
+            "value": "givralyriame",
+            "attendee_id": "cujsfj0veee0k23j9sng"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj3hlfg0e3kg1q1arg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc96t0",
+      "attendee_id": "cfe4r4p24nn1olqcqls0",
+      "attendee": {
+        "id": "cfe4r4p24nn1olqcqls0",
+        "name": "Hackedia",
+        "connections": [
+          {
+            "id": "cfe4r7h24nn1olqcqm00",
+            "type": "TWITCH",
+            "value": "hackedia",
+            "attendee_id": "cfe4r4p24nn1olqcqls0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj3jsrrdinih8hvdn0",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc96t0",
+      "attendee_id": "cnbkj8ibk2f212upcfh0",
+      "attendee": {
+        "id": "cnbkj8ibk2f212upcfh0",
+        "name": "TPK",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sj3mkrrdinih8hvdpg",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc96t0",
+      "attendee_id": "cfppq4ka041deltq9g3g",
+      "attendee": {
+        "id": "cfppq4ka041deltq9g3g",
+        "name": "Yamato",
+        "pronouns": "il/al",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

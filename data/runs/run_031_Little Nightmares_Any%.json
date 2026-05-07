@@ -1,0 +1,145 @@
+{
+  "id": "d79rasjsljdc9ttc984g",
+  "position": 31,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 2700000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Little Nightmares",
+    "category_name": "Any%",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:45:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T22:12:34.935Z",
+  "ends_at": "2026-05-08T23:02:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc9850",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc984g",
+      "attendee_id": "cn6o2657m4hq41ukr03g",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukr03g",
+        "name": "Neivee",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "cn6o2657m4hq41ukr040",
+            "type": "TWITCH",
+            "value": "neivee",
+            "attendee_id": "cn6o2657m4hq41ukr03g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptpc808b4g8269eth0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc984g",
+      "attendee_id": "cunpfsfhqd13mjeltavg",
+      "attendee": {
+        "id": "cunpfsfhqd13mjeltavg",
+        "name": "Balicke",
+        "pronouns": "elle/aelle",
+        "connections": [
+          {
+            "id": "d79rasbsljdc9ttc969g",
+            "type": "TWITCH",
+            "value": "balicke",
+            "attendee_id": "cunpfsfhqd13mjeltavg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptpe008b4g8269etkg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc984g",
+      "attendee_id": "d7g0maaukf3beqbralf0",
+      "attendee": {
+        "id": "d7g0maaukf3beqbralf0",
+        "name": "Jana",
+        "pronouns": "tous/elle",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sjatkrrdinih8hvik0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc984g",
+      "attendee_id": "d7sghqfc6uejcdabctq0",
+      "attendee": {
+        "id": "d7sghqfc6uejcdabctq0",
+        "name": "Etoiles",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sjavtfg0e3kg1q1fu0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc984g",
+      "attendee_id": "cfpq48ka041deltqadug",
+      "attendee": {
+        "id": "cfpq48ka041deltqadug",
+        "name": "Shisheyu",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sjb25fg0e3kg1q1fvg",
+      "event_id": "d79rasjsljdc9ttc984g",
+      "tag_id": "d7sigsdfg0e3kg1q1290",
+      "tag": {
+        "id": "d7sigsdfg0e3kg1q1290",
+        "name": "Horreur",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7sigttfg0e3kg1q12a0",
+            "language_code": "en",
+            "name": "Horror",
+            "tag_id": "d7sigsdfg0e3kg1q1290"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sjb3krrdinih8hvip0",
+      "event_id": "d79rasjsljdc9ttc984g",
+      "tag_id": "d7siipkrrdinih8hv5tg",
+      "tag": {
+        "id": "d7siipkrrdinih8hv5tg",
+        "name": "Thèmes Dérangeants",
+        "description": "",
+        "translations": []
+      }
+    },
+    {
+      "id": "d7sjb5krrdinih8hviqg",
+      "event_id": "d79rasjsljdc9ttc984g",
+      "tag_id": "d7sgjtu9uqrgovvvk74g",
+      "tag": {
+        "id": "d7sgjtu9uqrgovvvk74g",
+        "name": "Violence",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7sgk069uqrgovvvk75g",
+            "language_code": "en",
+            "name": "Violence",
+            "tag_id": "d7sgjtu9uqrgovvvk74g"
+          }
+        ]
+      }
+    }
+  ]
+}

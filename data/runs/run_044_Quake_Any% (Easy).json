@@ -1,0 +1,157 @@
+{
+  "id": "d79rasjsljdc9ttc98r0",
+  "position": 44,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 1020000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Quake",
+    "category_name": "Any% (Easy)",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:17:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-09T15:37:34.935Z",
+  "ends_at": "2026-05-09T15:59:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc98rg",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc98r0",
+      "attendee_id": "c94at5rta74f6q1gr7hg",
+      "attendee": {
+        "id": "c94at5rta74f6q1gr7hg",
+        "name": "Xeo",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "c94bbm2ve6fn5d1j6ssg",
+            "type": "TWITCH",
+            "value": "xeostyle",
+            "attendee_id": "c94at5rta74f6q1gr7hg"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqvpg",
+            "type": "TWITTER",
+            "value": "Mr_Xeo",
+            "attendee_id": "c94at5rta74f6q1gr7hg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptt6008b4g8269f3e0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc98r0",
+      "attendee_id": "c94at3qve6fn5d1j68l0",
+      "attendee": {
+        "id": "c94at3qve6fn5d1j68l0",
+        "name": "BiiWiX",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "c94bbeqve6fn5d1j6sog",
+            "type": "TWITCH",
+            "value": "biiwix",
+            "attendee_id": "c94at3qve6fn5d1j68l0"
+          },
+          {
+            "id": "cn6o2657m4hq41ukr0t0",
+            "type": "TWITTER",
+            "value": "BiiWiX",
+            "attendee_id": "c94at3qve6fn5d1j68l0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptt9008b4g8269f3k0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc98r0",
+      "attendee_id": "cfpppp4a041deltq9feg",
+      "attendee": {
+        "id": "cfpppp4a041deltq9feg",
+        "name": "Twispy",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tc8saaaisfo69il64g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc98r0",
+      "attendee_id": "c990ren9rqh8tg5c41eg",
+      "attendee": {
+        "id": "c990ren9rqh8tg5c41eg",
+        "name": "MisterMV",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tc8tuj1jo572e3kdv0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc98r0",
+      "attendee_id": "cg73pselgn96rflkvtk0",
+      "attendee": {
+        "id": "cg73pselgn96rflkvtk0",
+        "name": "ZeratoR",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tc92iaaisfo69il6a0",
+      "event_id": "d79rasjsljdc9ttc98r0",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tc932aaisfo69il6b0",
+      "event_id": "d79rasjsljdc9ttc98r0",
+      "tag_id": "d7qj1fr2p9uag6dr6m9g",
+      "tag": {
+        "id": "d7qj1fr2p9uag6dr6m9g",
+        "name": "Gore",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1hj2p9uag6dr6mbg",
+            "language_code": "en",
+            "name": "Gore",
+            "tag_id": "d7qj1fr2p9uag6dr6m9g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tc94uj1jo572e3ke40",
+      "event_id": "d79rasjsljdc9ttc98r0",
+      "tag_id": "d7qkmcg5klv0lki9alkg",
+      "tag": {
+        "id": "d7qkmcg5klv0lki9alkg",
+        "name": "Motion Sickness",
+        "description": "",
+        "translations": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "d79rasjsljdc9ttc9ac0",
+  "position": 71,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 600000,
+  "duration": 2100000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Super Monkey Ball: Banana Rumble",
+    "category_name": "World Tour",
+    "category_description": "",
+    "platform_name": "Switch",
+    "estimate": "0:35:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T16:13:34.935Z",
+  "ends_at": "2026-05-10T16:58:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc9ad0",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc9ac0",
+      "attendee_id": "c94aup3ta74f6q1gr9gg",
+      "attendee": {
+        "id": "c94aup3ta74f6q1gr9gg",
+        "name": "Marco",
+        "connections": [
+          {
+            "id": "c94bghive6fn5d1j6vm0",
+            "type": "TWITCH",
+            "value": "Marco",
+            "attendee_id": "c94aup3ta74f6q1gr9gg"
+          },
+          {
+            "id": "d79rasjsljdc9ttc9ab0",
+            "type": "TWITTER",
+            "value": "Marco8641",
+            "attendee_id": "c94aup3ta74f6q1gr9gg"
+          },
+          {
+            "id": "d79rasjsljdc9ttc9abg",
+            "type": "YOUTUBE",
+            "value": "8641Marco",
+            "attendee_id": "c94aup3ta74f6q1gr9gg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tckhiaaisfo69ild10",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc9ac0",
+      "attendee_id": "d79rasjsljdc9ttc9aa0",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc9aa0",
+        "name": "Peio31",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc9aag",
+            "type": "TWITCH",
+            "value": "peio_311",
+            "attendee_id": "d79rasjsljdc9ttc9aa0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tckluj1jo572e3kkvg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9ac0",
+      "attendee_id": "cunqr9vhqd13mjeluh3g",
+      "attendee": {
+        "id": "cunqr9vhqd13mjeluh3g",
+        "name": "Ai-Dail",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc97f0",
+            "type": "TWITCH",
+            "value": "aidail",
+            "attendee_id": "cunqr9vhqd13mjeluh3g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tckp6j1jo572e3kl20",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9ac0",
+      "attendee_id": "c990ren9rqh8tg5c41eg",
+      "attendee": {
+        "id": "c990ren9rqh8tg5c41eg",
+        "name": "MisterMV",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcktuj1jo572e3kl4g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9ac0",
+      "attendee_id": "c94aufqve6fn5d1j6a9g",
+      "attendee": {
+        "id": "c94aufqve6fn5d1j6a9g",
+        "name": "Jarm0u",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "c94bflave6fn5d1j6v60",
+            "type": "TWITCH",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqvu0",
+            "type": "TWITTER",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tckvej1jo572e3kl7g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9ac0",
+      "attendee_id": "cfppq4ka041deltq9g3g",
+      "attendee": {
+        "id": "cfppq4ka041deltq9g3g",
+        "name": "Yamato",
+        "pronouns": "il/al",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

@@ -1,0 +1,176 @@
+{
+  "id": "d79rasjsljdc9ttc991g",
+  "position": 46,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 600000,
+  "duration": 3000000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Dance Dance Revolution Grand Prix",
+    "category_name": "Superplay Single Play",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:50:00",
+    "flags": 6
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-09T16:54:34.935Z",
+  "ends_at": "2026-05-09T17:54:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc9920",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc991g",
+      "attendee_id": "cfe4v1924nn1olqcqq4g",
+      "attendee": {
+        "id": "cfe4v1924nn1olqcqq4g",
+        "name": "Gyoo",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "cfe4v3124nn1olqcqq8g",
+            "type": "TWITCH",
+            "value": "gyoo_",
+            "attendee_id": "cfe4v1924nn1olqcqq4g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d79rasjsljdc9ttc992g",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc991g",
+      "attendee_id": "d79rasjsljdc9ttc98u0",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc98u0",
+        "name": "Misty Griotte",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc98ug",
+            "type": "TWITCH",
+            "value": "mistygriotte",
+            "attendee_id": "d79rasjsljdc9ttc98u0"
+          },
+          {
+            "id": "d79rasjsljdc9ttc98v0",
+            "type": "TWITTER",
+            "value": "MistyGriotte",
+            "attendee_id": "d79rasjsljdc9ttc98u0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d79rasjsljdc9ttc9930",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc991g",
+      "attendee_id": "d79rasjsljdc9ttc98vg",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc98vg",
+        "name": "SiYes",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc9900",
+            "type": "TWITCH",
+            "value": "siyess",
+            "attendee_id": "d79rasjsljdc9ttc98vg"
+          },
+          {
+            "id": "d79rasjsljdc9ttc990g",
+            "type": "TWITTER",
+            "value": "SiYes_",
+            "attendee_id": "d79rasjsljdc9ttc98vg"
+          },
+          {
+            "id": "d79rasjsljdc9ttc9910",
+            "type": "YOUTUBE",
+            "value": "tintin3378",
+            "attendee_id": "d79rasjsljdc9ttc98vg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pttm008b4g8269f480",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc991g",
+      "attendee_id": "cg1e53hap13tv0guaa50",
+      "attendee": {
+        "id": "cg1e53hap13tv0guaa50",
+        "name": "Human",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7pttn808b4g8269f4b0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc991g",
+      "attendee_id": "d7g13biukf3beqbrasu0",
+      "attendee": {
+        "id": "d7g13biukf3beqbrasu0",
+        "name": "Unara",
+        "pronouns": "elle",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tc992aaisfo69il6fg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc991g",
+      "attendee_id": "c990ren9rqh8tg5c41eg",
+      "attendee": {
+        "id": "c990ren9rqh8tg5c41eg",
+        "name": "MisterMV",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tc9amj1jo572e3ke9g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc991g",
+      "attendee_id": "cg73pselgn96rflkvtk0",
+      "attendee": {
+        "id": "cg73pselgn96rflkvtk0",
+        "name": "ZeratoR",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tc9ciaaisfo69il6k0",
+      "event_id": "d79rasjsljdc9ttc991g",
+      "tag_id": "d7siiusrrdinih8hv600",
+      "tag": {
+        "id": "d7siiusrrdinih8hv600",
+        "name": "Défilement Rapide",
+        "description": "",
+        "translations": []
+      }
+    },
+    {
+      "id": "d7tc9dmj1jo572e3kedg",
+      "event_id": "d79rasjsljdc9ttc991g",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+#!/usr/bin/env php
+<?php
+
+$args = array_slice($argv, 1);
+$escaped = array_map('escapeshellarg', $args);
+$command = 'cecil' . (count($escaped) ? ' ' . implode(' ', $escaped) : '');
+
+passthru($command, $exitCode);
+exit($exitCode);

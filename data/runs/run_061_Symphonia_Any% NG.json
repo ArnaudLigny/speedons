@@ -1,0 +1,104 @@
+{
+  "id": "d79rasjsljdc9ttc99r0",
+  "position": 61,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 3120000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Symphonia",
+    "category_name": "Any% NG",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:52:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T07:20:34.935Z",
+  "ends_at": "2026-05-10T08:17:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc99rg",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc99r0",
+      "attendee_id": "cujsfi0veee0k23j9s5g",
+      "attendee": {
+        "id": "cujsfi0veee0k23j9s5g",
+        "name": "Lobsteure",
+        "pronouns": "elle",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7pu2cg08b4g8269fav0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99r0",
+      "attendee_id": "cunpgq7hqd13mjeltbjg",
+      "attendee": {
+        "id": "cunpgq7hqd13mjeltbjg",
+        "name": "Amélia",
+        "pronouns": "elle",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7pu2e008b4g8269fb30",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99r0",
+      "attendee_id": "cujsfjgveee0k23j9t20",
+      "attendee": {
+        "id": "cujsfjgveee0k23j9t20",
+        "name": "La_Doods",
+        "pronouns": "elle/aelle",
+        "connections": [
+          {
+            "id": "cujsfjgveee0k23j9t2g",
+            "type": "TWITCH",
+            "value": "la_doods",
+            "attendee_id": "cujsfjgveee0k23j9t20"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tcdpiaaisfo69ila0g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99r0",
+      "attendee_id": "cunqc7nhqd13mjeltv8g",
+      "attendee": {
+        "id": "cunqc7nhqd13mjeltv8g",
+        "name": "DamDamLive",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcdrej1jo572e3khlg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99r0",
+      "attendee_id": "c94aufqve6fn5d1j6a9g",
+      "attendee": {
+        "id": "c94aufqve6fn5d1j6a9g",
+        "name": "Jarm0u",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "c94bflave6fn5d1j6v60",
+            "type": "TWITCH",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqvu0",
+            "type": "TWITTER",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          }
+        ]
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

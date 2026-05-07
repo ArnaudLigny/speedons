@@ -1,0 +1,161 @@
+{
+  "id": "d79rasjsljdc9ttc9880",
+  "position": 33,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 3300000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Demon's Souls (2020)",
+    "category_name": "Any% Restricted",
+    "category_description": "",
+    "platform_name": "PlayStation 5",
+    "estimate": "0:55:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-09T01:32:34.935Z",
+  "ends_at": "2026-05-09T02:32:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc988g",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc9880",
+      "attendee_id": "d79rasjsljdc9ttc986g",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc986g",
+        "name": "DrBeber",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc9870",
+            "type": "TWITCH",
+            "value": "drbeber",
+            "attendee_id": "d79rasjsljdc9ttc986g"
+          },
+          {
+            "id": "d79rasjsljdc9ttc987g",
+            "type": "YOUTUBE",
+            "value": "drbeber",
+            "attendee_id": "d79rasjsljdc9ttc986g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptq2008b4g8269euj0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9880",
+      "attendee_id": "cunpfsfhqd13mjeltavg",
+      "attendee": {
+        "id": "cunpfsfhqd13mjeltavg",
+        "name": "Balicke",
+        "pronouns": "elle/aelle",
+        "connections": [
+          {
+            "id": "d79rasbsljdc9ttc969g",
+            "type": "TWITCH",
+            "value": "balicke",
+            "attendee_id": "cunpfsfhqd13mjeltavg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptq4g08b4g8269eun0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9880",
+      "attendee_id": "cnbkeo2bk2f212upc8g0",
+      "attendee": {
+        "id": "cnbkeo2bk2f212upc8g0",
+        "name": "Nimelya",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "cujsfhoveee0k23j9s10",
+            "type": "TWITCH",
+            "value": "nimelya",
+            "attendee_id": "cnbkeo2bk2f212upc8g0"
+          },
+          {
+            "id": "cujsfhoveee0k23j9s1g",
+            "type": "TWITTER",
+            "value": "nimelya",
+            "attendee_id": "cnbkeo2bk2f212upc8g0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sjdm4rrdinih8hvjn0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9880",
+      "attendee_id": "cfe52dp24nn1olqcqujg",
+      "attendee": {
+        "id": "cfe52dp24nn1olqcqujg",
+        "name": "KEMIST",
+        "connections": [
+          {
+            "id": "cfe52f124nn1olqcqumg",
+            "type": "TWITCH",
+            "value": "kemist_c10h15n",
+            "attendee_id": "cfe52dp24nn1olqcqujg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sjdo4rrdinih8hvjq0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9880",
+      "attendee_id": "c990ren9rqh8tg5c41eg",
+      "attendee": {
+        "id": "c990ren9rqh8tg5c41eg",
+        "name": "MisterMV",
+        "pronouns": "il",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sjdpsrrdinih8hvjrg",
+      "event_id": "d79rasjsljdc9ttc9880",
+      "tag_id": "d7sihblfg0e3kg1q12f0",
+      "tag": {
+        "id": "d7sihblfg0e3kg1q12f0",
+        "name": "Arachnophobie",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7sihddfg0e3kg1q12g0",
+            "language_code": "en",
+            "name": "Arachnophobia",
+            "tag_id": "d7sihblfg0e3kg1q12f0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sjdqsrrdinih8hvjt0",
+      "event_id": "d79rasjsljdc9ttc9880",
+      "tag_id": "d7qj1fr2p9uag6dr6m9g",
+      "tag": {
+        "id": "d7qj1fr2p9uag6dr6m9g",
+        "name": "Gore",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1hj2p9uag6dr6mbg",
+            "language_code": "en",
+            "name": "Gore",
+            "tag_id": "d7qj1fr2p9uag6dr6m9g"
+          }
+        ]
+      }
+    }
+  ]
+}

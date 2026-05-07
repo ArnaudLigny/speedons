@@ -1,0 +1,154 @@
+{
+  "id": "d79rasjsljdc9ttc98kg",
+  "position": 40,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 2640000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Minishoot' Adventures",
+    "category_name": "Any% (Restricted - Explorer)",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:44:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-09T11:15:34.935Z",
+  "ends_at": "2026-05-09T12:04:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc98l0",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc98kg",
+      "attendee_id": "d79rasjsljdc9ttc98j0",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc98j0",
+        "name": "Aleph_tv",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc98jg",
+            "type": "TWITCH",
+            "value": "aleph_tv",
+            "attendee_id": "d79rasjsljdc9ttc98j0"
+          },
+          {
+            "id": "d79rasjsljdc9ttc98k0",
+            "type": "YOUTUBE",
+            "value": "aleph_tv",
+            "attendee_id": "d79rasjsljdc9ttc98j0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pts7008b4g8269f1k0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc98kg",
+      "attendee_id": "d79rasjsljdc9ttc986g",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc986g",
+        "name": "DrBeber",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc9870",
+            "type": "TWITCH",
+            "value": "drbeber",
+            "attendee_id": "d79rasjsljdc9ttc986g"
+          },
+          {
+            "id": "d79rasjsljdc9ttc987g",
+            "type": "YOUTUBE",
+            "value": "drbeber",
+            "attendee_id": "d79rasjsljdc9ttc986g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pts8g08b4g8269f1qg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc98kg",
+      "attendee_id": "cnbkeo2bk2f212upc8g0",
+      "attendee": {
+        "id": "cnbkeo2bk2f212upc8g0",
+        "name": "Nimelya",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "cujsfhoveee0k23j9s10",
+            "type": "TWITCH",
+            "value": "nimelya",
+            "attendee_id": "cnbkeo2bk2f212upc8g0"
+          },
+          {
+            "id": "cujsfhoveee0k23j9s1g",
+            "type": "TWITTER",
+            "value": "nimelya",
+            "attendee_id": "cnbkeo2bk2f212upc8g0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tc7vmj1jo572e3kd3g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc98kg",
+      "attendee_id": "c94au9ave6fn5d1j6a00",
+      "attendee": {
+        "id": "c94au9ave6fn5d1j6a00",
+        "name": "Chachamaxx",
+        "connections": [
+          {
+            "id": "c94bevive6fn5d1j6uo0",
+            "type": "TWITCH",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          },
+          {
+            "id": "cujsfh8veee0k23j9rn0",
+            "type": "TWITTER",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tc81mj1jo572e3kd6g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc98kg",
+      "attendee_id": "cunqc7nhqd13mjeltv8g",
+      "attendee": {
+        "id": "cunqc7nhqd13mjeltv8g",
+        "name": "DamDamLive",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tc82mj1jo572e3kd80",
+      "event_id": "d79rasjsljdc9ttc98kg",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

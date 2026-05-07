@@ -1,0 +1,57 @@
+{
+  "id": "d79rasjsljdc9ttc9a9g",
+  "position": 70,
+  "type": "INTERSTITIAL",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 600000,
+  "duration": 0,
+  "metadata": {},
+  "interstitial": {
+    "subject": "Interview Medecins du Monde"
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T16:03:34.935Z",
+  "ends_at": "2026-05-10T16:13:34.935Z",
+  "participants": [
+    {
+      "id": "d7tcl9ej1jo572e3klc0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9a9g",
+      "attendee_id": "c94aufqve6fn5d1j6a9g",
+      "attendee": {
+        "id": "c94aufqve6fn5d1j6a9g",
+        "name": "Jarm0u",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "c94bflave6fn5d1j6v60",
+            "type": "TWITCH",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqvu0",
+            "type": "TWITTER",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tclb2aaisfo69ildfg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9a9g",
+      "attendee_id": "cfppq4ka041deltq9g3g",
+      "attendee": {
+        "id": "cfppq4ka041deltq9g3g",
+        "name": "Yamato",
+        "pronouns": "il/al",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

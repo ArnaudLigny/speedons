@@ -1,0 +1,132 @@
+{
+  "id": "d79rasjsljdc9ttc97fg",
+  "position": 21,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 600000,
+  "duration": 3240000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Freedom Planet",
+    "category_name": "Lilac%",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:54:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T12:34:34.935Z",
+  "ends_at": "2026-05-08T13:38:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc97g0",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc97fg",
+      "attendee_id": "cunqr9vhqd13mjeluh3g",
+      "attendee": {
+        "id": "cunqr9vhqd13mjeluh3g",
+        "name": "Ai-Dail",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc97f0",
+            "type": "TWITCH",
+            "value": "aidail",
+            "attendee_id": "cunqr9vhqd13mjeluh3g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptmq808b4g8269ep9g",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc97fg",
+      "attendee_id": "c94au9ave6fn5d1j6a00",
+      "attendee": {
+        "id": "c94au9ave6fn5d1j6a00",
+        "name": "Chachamaxx",
+        "connections": [
+          {
+            "id": "c94bevive6fn5d1j6uo0",
+            "type": "TWITCH",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          },
+          {
+            "id": "cujsfh8veee0k23j9rn0",
+            "type": "TWITTER",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptmro08b4g8269epdg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc97fg",
+      "attendee_id": "cujsfi8veee0k23j9sag",
+      "attendee": {
+        "id": "cujsfi8veee0k23j9sag",
+        "name": "Veyle",
+        "connections": [
+          {
+            "id": "cujsfi8veee0k23j9sb0",
+            "type": "TWITCH",
+            "value": "veyle_",
+            "attendee_id": "cujsfi8veee0k23j9sag"
+          },
+          {
+            "id": "cujsfi8veee0k23j9sbg",
+            "type": "TWITTER",
+            "value": "Veyle_",
+            "attendee_id": "cujsfi8veee0k23j9sag"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj62tfg0e3kg1q1ckg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc97fg",
+      "attendee_id": "d7sghqfc6uejcdabctq0",
+      "attendee": {
+        "id": "d7sghqfc6uejcdabctq0",
+        "name": "Etoiles",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sj64lfg0e3kg1q1cn0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc97fg",
+      "attendee_id": "d7sger69uqrgovvvk69g",
+      "attendee": {
+        "id": "d7sger69uqrgovvvk69g",
+        "name": "Horty",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sj66dfg0e3kg1q1cog",
+      "event_id": "d79rasjsljdc9ttc97fg",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

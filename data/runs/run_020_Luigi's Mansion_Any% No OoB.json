@@ -1,0 +1,153 @@
+{
+  "id": "d79rasbsljdc9ttc97dg",
+  "position": 20,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 600000,
+  "duration": 3900000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Luigi's Mansion",
+    "category_name": "Any% No OoB",
+    "category_description": "",
+    "platform_name": "Wii",
+    "estimate": "1:05:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T11:19:34.935Z",
+  "ends_at": "2026-05-08T12:34:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasbsljdc9ttc97e0",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc97dg",
+      "attendee_id": "d79rasbsljdc9ttc97bg",
+      "attendee": {
+        "id": "d79rasbsljdc9ttc97bg",
+        "name": "alphaxBDX",
+        "connections": [
+          {
+            "id": "d79rasbsljdc9ttc97c0",
+            "type": "TWITCH",
+            "value": "alphaxbdx",
+            "attendee_id": "d79rasbsljdc9ttc97bg"
+          },
+          {
+            "id": "d79rasbsljdc9ttc97cg",
+            "type": "TWITTER",
+            "value": "theAlPhaX33",
+            "attendee_id": "d79rasbsljdc9ttc97bg"
+          },
+          {
+            "id": "d79rasbsljdc9ttc97d0",
+            "type": "YOUTUBE",
+            "value": "alphaxbdx1284",
+            "attendee_id": "d79rasbsljdc9ttc97bg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d79rasjsljdc9ttc97eg",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc97dg",
+      "attendee_id": "cujsfn0veee0k23j9v10",
+      "attendee": {
+        "id": "cujsfn0veee0k23j9v10",
+        "name": "pierre",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "cujsfn0veee0k23j9v1g",
+            "type": "TWITCH",
+            "value": "pierre3",
+            "attendee_id": "cujsfn0veee0k23j9v10"
+          },
+          {
+            "id": "cujsfn0veee0k23j9v20",
+            "type": "TWITTER",
+            "value": "108db_",
+            "attendee_id": "cujsfn0veee0k23j9v10"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptmj808b4g8269eoqg",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc97dg",
+      "attendee_id": "d7g0pe2ukf3beqbran80",
+      "attendee": {
+        "id": "d7g0pe2ukf3beqbran80",
+        "name": "Le Retroscope",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7ptmko08b4g8269ep00",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc97dg",
+      "attendee_id": "d7g13uaukf3beqbratbg",
+      "attendee": {
+        "id": "d7g13uaukf3beqbratbg",
+        "name": "Yrisi",
+        "pronouns": "elle",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sj5lkrrdinih8hvf4g",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc97dg",
+      "attendee_id": "c94au9ave6fn5d1j6a00",
+      "attendee": {
+        "id": "c94au9ave6fn5d1j6a00",
+        "name": "Chachamaxx",
+        "connections": [
+          {
+            "id": "c94bevive6fn5d1j6uo0",
+            "type": "TWITCH",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          },
+          {
+            "id": "cujsfh8veee0k23j9rn0",
+            "type": "TWITTER",
+            "value": "chachamaxx",
+            "attendee_id": "c94au9ave6fn5d1j6a00"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj5nlfg0e3kg1q1cdg",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc97dg",
+      "attendee_id": "c94aufqve6fn5d1j6a9g",
+      "attendee": {
+        "id": "c94aufqve6fn5d1j6a9g",
+        "name": "Jarm0u",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "c94bflave6fn5d1j6v60",
+            "type": "TWITCH",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqvu0",
+            "type": "TWITTER",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          }
+        ]
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

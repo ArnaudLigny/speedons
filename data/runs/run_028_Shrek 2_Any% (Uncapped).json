@@ -1,0 +1,121 @@
+{
+  "id": "d79rasjsljdc9ttc97tg",
+  "position": 28,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 1560000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Shrek 2",
+    "category_name": "Any% (Uncapped)",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:26:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T19:06:34.935Z",
+  "ends_at": "2026-05-08T19:37:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc97u0",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc97tg",
+      "attendee_id": "cn6o2657m4hq41ukqug0",
+      "attendee": {
+        "id": "cn6o2657m4hq41ukqug0",
+        "name": "UTSURU",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "cn6o2657m4hq41ukqugg",
+            "type": "TWITCH",
+            "value": "utsuru",
+            "attendee_id": "cn6o2657m4hq41ukqug0"
+          },
+          {
+            "id": "cnf0kgjh0cu1uhns8p7g",
+            "type": "TWITTER",
+            "value": "outsourou",
+            "attendee_id": "cn6o2657m4hq41ukqug0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7ptokg08b4g8269esag",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc97tg",
+      "attendee_id": "c990ren9rqh8tg5c41eg",
+      "attendee": {
+        "id": "c990ren9rqh8tg5c41eg",
+        "name": "MisterMV",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sj9ilfg0e3kg1q1f20",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc97tg",
+      "attendee_id": "d7g13daukf3beqbrasv0",
+      "attendee": {
+        "id": "d7g13daukf3beqbrasv0",
+        "name": "UneChoco",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sj9kcrrdinih8hvhtg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc97tg",
+      "attendee_id": "cfe52dp24nn1olqcqujg",
+      "attendee": {
+        "id": "cfe52dp24nn1olqcqujg",
+        "name": "KEMIST",
+        "connections": [
+          {
+            "id": "cfe52f124nn1olqcqumg",
+            "type": "TWITCH",
+            "value": "kemist_c10h15n",
+            "attendee_id": "cfe52dp24nn1olqcqujg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7sj9mdfg0e3kg1q1f6g",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc97tg",
+      "attendee_id": "cnbkj8ibk2f212upcfh0",
+      "attendee": {
+        "id": "cnbkj8ibk2f212upcfh0",
+        "name": "TPK",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sj9odfg0e3kg1q1f80",
+      "event_id": "d79rasjsljdc9ttc97tg",
+      "tag_id": "d7sihblfg0e3kg1q12f0",
+      "tag": {
+        "id": "d7sihblfg0e3kg1q12f0",
+        "name": "Arachnophobie",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7sihddfg0e3kg1q12g0",
+            "language_code": "en",
+            "name": "Arachnophobia",
+            "tag_id": "d7sihblfg0e3kg1q12f0"
+          }
+        ]
+      }
+    }
+  ]
+}

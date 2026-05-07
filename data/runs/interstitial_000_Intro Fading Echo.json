@@ -1,0 +1,19 @@
+{
+  "id": "d7uahr77398mqlqii6eg",
+  "position": 0,
+  "type": "INTERSTITIAL",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 0,
+  "duration": 3600000,
+  "metadata": {},
+  "interstitial": {
+    "subject": "Intro Fading Echo"
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-07T15:00:00Z",
+  "ends_at": "2026-05-07T16:00:00Z",
+  "participants": [],
+  "translations": [],
+  "tags": []
+}

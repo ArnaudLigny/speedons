@@ -1,0 +1,105 @@
+{
+  "id": "d79rasjsljdc9ttc9a8g",
+  "position": 69,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 3000000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Octopath Traveler II",
+    "category_name": "Single Story - Character Bid War",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:50:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T15:08:34.935Z",
+  "ends_at": "2026-05-10T16:03:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc9a90",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc9a8g",
+      "attendee_id": "d79rasjsljdc9ttc9a7g",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc9a7g",
+        "name": "Hakumei",
+        "pronouns": "il/tous",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc9a80",
+            "type": "TWITCH",
+            "value": "hakumei59",
+            "attendee_id": "d79rasjsljdc9ttc9a7g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu5pg08b4g8269feng",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9a8g",
+      "attendee_id": "d7g04a2ukf3beqbrah60",
+      "attendee": {
+        "id": "d7g04a2ukf3beqbrah60",
+        "name": "Anae Leone",
+        "pronouns": "elle",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7pu5rg08b4g8269fes0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9a8g",
+      "attendee_id": "d7g10miukf3beqbrari0",
+      "attendee": {
+        "id": "d7g10miukf3beqbrari0",
+        "name": "sneakypeek",
+        "pronouns": "il/iel",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tck1mj1jo572e3kkj0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9a8g",
+      "attendee_id": "c94aufqve6fn5d1j6a9g",
+      "attendee": {
+        "id": "c94aufqve6fn5d1j6a9g",
+        "name": "Jarm0u",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "c94bflave6fn5d1j6v60",
+            "type": "TWITCH",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqvu0",
+            "type": "TWITTER",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7tck3mj1jo572e3kklg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9a8g",
+      "attendee_id": "cfppq4ka041deltq9g3g",
+      "attendee": {
+        "id": "cfppq4ka041deltq9g3g",
+        "name": "Yamato",
+        "pronouns": "il/al",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

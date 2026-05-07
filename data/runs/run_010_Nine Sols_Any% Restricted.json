@@ -1,0 +1,127 @@
+{
+  "id": "d79rasbsljdc9ttc96n0",
+  "position": 10,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 600000,
+  "duration": 5400000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Nine Sols",
+    "category_name": "Any% Restricted",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "1:30:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-08T00:30:34.935Z",
+  "ends_at": "2026-05-08T02:10:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasbsljdc9ttc96ng",
+      "role": "ACTOR",
+      "event_id": "d79rasbsljdc9ttc96n0",
+      "attendee_id": "d79rasbsljdc9ttc96l0",
+      "attendee": {
+        "id": "d79rasbsljdc9ttc96l0",
+        "name": "Giriko",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasbsljdc9ttc96lg",
+            "type": "TWITCH",
+            "value": "giriko___",
+            "attendee_id": "d79rasbsljdc9ttc96l0"
+          },
+          {
+            "id": "d79rasbsljdc9ttc96m0",
+            "type": "TWITTER",
+            "value": "Giriko__",
+            "attendee_id": "d79rasbsljdc9ttc96l0"
+          },
+          {
+            "id": "d79rasbsljdc9ttc96mg",
+            "type": "YOUTUBE",
+            "value": "giriko2662",
+            "attendee_id": "d79rasbsljdc9ttc96l0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7g1fcqukf3beqbrb7f0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc96n0",
+      "attendee_id": "cfe52dp24nn1olqcqujg",
+      "attendee": {
+        "id": "cfe52dp24nn1olqcqujg",
+        "name": "KEMIST",
+        "connections": [
+          {
+            "id": "cfe52f124nn1olqcqumg",
+            "type": "TWITCH",
+            "value": "kemist_c10h15n",
+            "attendee_id": "cfe52dp24nn1olqcqujg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7g1ff2ukf3beqbrb7ig",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasbsljdc9ttc96n0",
+      "attendee_id": "d7g0u7iukf3beqbraq6g",
+      "attendee": {
+        "id": "d7g0u7iukf3beqbraq6g",
+        "name": "Raivals",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sip3lfg0e3kg1q16a0",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc96n0",
+      "attendee_id": "d7sghqfc6uejcdabctq0",
+      "attendee": {
+        "id": "d7sghqfc6uejcdabctq0",
+        "name": "Etoiles",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7sip6dfg0e3kg1q16cg",
+      "role": "HOST",
+      "event_id": "d79rasbsljdc9ttc96n0",
+      "attendee_id": "cg73pselgn96rflkvtk0",
+      "attendee": {
+        "id": "cg73pselgn96rflkvtk0",
+        "name": "ZeratoR",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7sip8tfg0e3kg1q16e0",
+      "event_id": "d79rasbsljdc9ttc96n0",
+      "tag_id": "d7qj1fr2p9uag6dr6m9g",
+      "tag": {
+        "id": "d7qj1fr2p9uag6dr6m9g",
+        "name": "Gore",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1hj2p9uag6dr6mbg",
+            "language_code": "en",
+            "name": "Gore",
+            "tag_id": "d7qj1fr2p9uag6dr6m9g"
+          }
+        ]
+      }
+    }
+  ]
+}

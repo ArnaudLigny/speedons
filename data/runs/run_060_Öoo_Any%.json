@@ -1,0 +1,92 @@
+{
+  "id": "d79rasjsljdc9ttc99q0",
+  "position": 60,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 900000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Öoo",
+    "category_name": "Any%",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:15:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T07:00:34.935Z",
+  "ends_at": "2026-05-10T07:20:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc99qg",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc99q0",
+      "attendee_id": "d79rasjsljdc9ttc99p0",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc99p0",
+        "name": "Tornoz",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc99pg",
+            "type": "TWITCH",
+            "value": "tornoz",
+            "attendee_id": "d79rasjsljdc9ttc99p0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu23g08b4g8269fag0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99q0",
+      "attendee_id": "d79rasjsljdc9ttc99g0",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc99g0",
+        "name": "CNeyo",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcdj2aaisfo69il9s0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99q0",
+      "attendee_id": "cunqc7nhqd13mjeltv8g",
+      "attendee": {
+        "id": "cunqc7nhqd13mjeltv8g",
+        "name": "DamDamLive",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tcdkaaaisfo69il9ug",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99q0",
+      "attendee_id": "c94aufqve6fn5d1j6a9g",
+      "attendee": {
+        "id": "c94aufqve6fn5d1j6a9g",
+        "name": "Jarm0u",
+        "pronouns": "elle",
+        "connections": [
+          {
+            "id": "c94bflave6fn5d1j6v60",
+            "type": "TWITCH",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          },
+          {
+            "id": "cn6o2657m4hq41ukqvu0",
+            "type": "TWITTER",
+            "value": "jarm0u",
+            "attendee_id": "c94aufqve6fn5d1j6a9g"
+          }
+        ]
+      }
+    }
+  ],
+  "translations": [],
+  "tags": []
+}

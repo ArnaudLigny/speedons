@@ -1,0 +1,108 @@
+{
+  "id": "d79rasjsljdc9ttc99k0",
+  "position": 56,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 1800000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Pitfall : L'Expédition perdue",
+    "category_name": "Any%",
+    "category_description": "",
+    "platform_name": "GameCube",
+    "estimate": "0:30:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T02:40:34.935Z",
+  "ends_at": "2026-05-10T03:15:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc99kg",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc99k0",
+      "attendee_id": "d79rasjsljdc9ttc99j0",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc99j0",
+        "name": "SaltySieg",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc99jg",
+            "type": "TWITCH",
+            "value": "saltysieg",
+            "attendee_id": "d79rasjsljdc9ttc99j0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu10808b4g8269f8k0",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99k0",
+      "attendee_id": "d7g0gviukf3beqbraik0",
+      "attendee": {
+        "id": "d7g0gviukf3beqbraik0",
+        "name": "Chopperflame",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7pu12008b4g8269f8ng",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc99k0",
+      "attendee_id": "d7g0jmqukf3beqbrak20",
+      "attendee": {
+        "id": "d7g0jmqukf3beqbrak20",
+        "name": "Flaos",
+        "pronouns": "il",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tccfej1jo572e3kgl0",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99k0",
+      "attendee_id": "cfppq4ka041deltq9g3g",
+      "attendee": {
+        "id": "cfppq4ka041deltq9g3g",
+        "name": "Yamato",
+        "pronouns": "il/al",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tccgqaaisfo69il8vg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc99k0",
+      "attendee_id": "cg73pselgn96rflkvtk0",
+      "attendee": {
+        "id": "cg73pselgn96rflkvtk0",
+        "name": "ZeratoR",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tcciqaaisfo69il910",
+      "event_id": "d79rasjsljdc9ttc99k0",
+      "tag_id": "d7sihhdfg0e3kg1q12ig",
+      "tag": {
+        "id": "d7sihhdfg0e3kg1q12ig",
+        "name": "Scorpions",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7sihitfg0e3kg1q12jg",
+            "language_code": "en",
+            "name": "Scorpion",
+            "tag_id": "d7sihhdfg0e3kg1q12ig"
+          }
+        ]
+      }
+    }
+  ]
+}

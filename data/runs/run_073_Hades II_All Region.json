@@ -1,0 +1,114 @@
+{
+  "id": "d79rasjsljdc9ttc9afg",
+  "position": 73,
+  "type": "SPEEDRUN",
+  "status": "UNLOCKED",
+  "description": "",
+  "delay": 300000,
+  "duration": 2100000,
+  "metadata": {},
+  "speedrun": {
+    "game_name": "Hades II",
+    "category_name": "All Region",
+    "category_description": "",
+    "platform_name": "PC",
+    "estimate": "0:35:00",
+    "flags": 0
+  },
+  "campaign_id": "d79racrsljdc9ttc95eg",
+  "starts_at": "2026-05-10T17:31:34.935Z",
+  "ends_at": "2026-05-10T18:11:34.935Z",
+  "participants": [
+    {
+      "id": "d79rasjsljdc9ttc9ag0",
+      "role": "ACTOR",
+      "event_id": "d79rasjsljdc9ttc9afg",
+      "attendee_id": "d79rasjsljdc9ttc9aeg",
+      "attendee": {
+        "id": "d79rasjsljdc9ttc9aeg",
+        "name": "Kyussey",
+        "pronouns": "il",
+        "connections": [
+          {
+            "id": "d79rasjsljdc9ttc9af0",
+            "type": "TWITCH",
+            "value": "Kyussey",
+            "attendee_id": "d79rasjsljdc9ttc9aeg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu6r808b4g8269fg40",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9afg",
+      "attendee_id": "cnbkh90o82mckkoop4r0",
+      "attendee": {
+        "id": "cnbkh90o82mckkoop4r0",
+        "name": "Elizya TV",
+        "connections": [
+          {
+            "id": "cujsfmoveee0k23j9uvg",
+            "type": "TWITCH",
+            "value": "elizyatv",
+            "attendee_id": "cnbkh90o82mckkoop4r0"
+          }
+        ]
+      }
+    },
+    {
+      "id": "d7pu6sg08b4g8269fg80",
+      "role": "COMMENTATOR",
+      "event_id": "d79rasjsljdc9ttc9afg",
+      "attendee_id": "d7g0qvaukf3beqbrao6g",
+      "attendee": {
+        "id": "d7g0qvaukf3beqbrao6g",
+        "name": "MiraiPanda",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tclr2aaisfo69ildtg",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9afg",
+      "attendee_id": "cunqc7nhqd13mjeltv8g",
+      "attendee": {
+        "id": "cunqc7nhqd13mjeltv8g",
+        "name": "DamDamLive",
+        "connections": []
+      }
+    },
+    {
+      "id": "d7tclsiaaisfo69ile00",
+      "role": "HOST",
+      "event_id": "d79rasjsljdc9ttc9afg",
+      "attendee_id": "cg73pselgn96rflkvtk0",
+      "attendee": {
+        "id": "cg73pselgn96rflkvtk0",
+        "name": "ZeratoR",
+        "connections": []
+      }
+    }
+  ],
+  "translations": [],
+  "tags": [
+    {
+      "id": "d7tcluiaaisfo69ile1g",
+      "event_id": "d79rasjsljdc9ttc9afg",
+      "tag_id": "d7qj0432p9uag6dr6l6g",
+      "tag": {
+        "id": "d7qj0432p9uag6dr6l6g",
+        "name": "Flashs Lumineux",
+        "description": "",
+        "translations": [
+          {
+            "id": "d7qj1bb2p9uag6dr6m7g",
+            "language_code": "en",
+            "name": "Flashing Lights",
+            "tag_id": "d7qj0432p9uag6dr6l6g"
+          }
+        ]
+      }
+    }
+  ]
+}

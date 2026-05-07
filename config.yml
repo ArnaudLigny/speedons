@@ -8,7 +8,4 @@ languages:
     name: Français
     locale: fr_FR
 
-pages:
-  body:
-    highlight:
-      enabled: false
+image: images/og-image.png
